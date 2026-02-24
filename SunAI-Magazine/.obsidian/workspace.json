@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0f0e6190267b8d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7127bd54bc68383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8438cbe3f83f5e11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d7b24dfb3718a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fcc34081512b1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee9d7a89b312bae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "97398d48beeb4ac5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "7cf151a55741658b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "67d97f2f481f62e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ca2d70a66e765e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729186d4f8886e53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_管理/記事マスターリスト.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "記事マスターリストへのバックリンク"
+            }
+          },
+          {
+            "id": "169f8c25d61c2c36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_管理/記事マスターリスト.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "記事マスターリストからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d070d1c1e4aca551",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "13af12d262fce72c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "0cc62e4abf530274",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_管理/記事マスターリスト.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "記事マスターリストのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8438cbe3f83f5e11",
+  "lastOpenFiles": [
+    "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術.md",
+    "02_記事/001_旋盤加工の「芯出し」を民主化する：熟練工の勘を不要にする丸型マグネットチャックの導入.md",
+    "02_記事/016_非鉄金属・非磁性材料のマグネット保持：ハイブリッド方式とベストプラクティス/補足.md",
+    "02_記事/016_非鉄金属・非磁性材料のマグネット保持：ハイブリッド方式とベストプラクティス/non_ferrous_magnetic_chuck_en.md.md",
+    "02_記事/016_非鉄金属・非磁性材料のマグネット保持：ハイブリッド方式とベストプラクティス/non_ferrous_magnetic_chuck_ja.md.md",
+    "02_記事/015_マグネットチャックで実現する5面加工：治具レス加工の設計ガイド/補足.md",
+    "02_記事/016_非鉄金属・非磁性材料のマグネット保持：ハイブリッド方式とベストプラクティス",
+    "02_記事/015_マグネットチャックで実現する5面加工：治具レス加工の設計ガイド/magnetic-chuck-5-face-machining-guide_en.md.md",
+    "02_記事/015_マグネットチャックで実現する5面加工：治具レス加工の設計ガイド/magnetic-chuck-5-face-machining-guide_JP.md.md",
+    "02_記事/014_マグネットチャック vs 油圧チャック vs メカニカルチャック 生産性・コスト・精度の3軸比較/magnetic_vs_hydraulic_vs_mechanical_chuck_ja.md.md",
+    "02_記事/015_マグネットチャックで実現する5面加工：治具レス加工の設計ガイド",
+    "02_記事/014_マグネットチャック vs 油圧チャック vs メカニカルチャック 生産性・コスト・精度の3軸比較/補足.md",
+    "02_記事/014_マグネットチャック vs 油圧チャック vs メカニカルチャック 生産性・コスト・精度の3軸比較/magnetic_vs_hydraulic_vs_mechanical_chuck_en.md.md",
+    "02_記事/013_マグネットチャックの吸着力計算と安全率設定 切削力に負けない設計手法/補足.md",
+    "02_記事/014_マグネットチャック vs 油圧チャック vs メカニカルチャック 生産性・コスト・精度の3軸比較",
+    "02_記事/013_マグネットチャックの吸着力計算と安全率設定 切削力に負けない設計手法/magnetic_chuck_holding_force_calculation_en.md.md",
+    "02_記事/013_マグネットチャックの吸着力計算と安全率設定 切削力に負けない設計手法/magnetic_chuck_holding_force_calculation_ja.md.md",
+    "02_記事/012_永電磁式マグネットチャックの技術的優位性 電磁式・永磁式との徹底比較/補足.md",
+    "02_記事/013_マグネットチャックの吸着力計算と安全率設定 切削力に負けない設計手法",
+    "02_記事/012_永電磁式マグネットチャックの技術的優位性 電磁式・永磁式との徹底比較/electro-permanent-magnetic-chuck-comparison_en.md.md",
+    "02_記事/012_永電磁式マグネットチャックの技術的優位性 電磁式・永磁式との徹底比較/electro-permanent-magnetic-chuck-comparison_ja.md.md",
+    "02_記事/011_マグネットチャックとは?原理・種類・用途を完全解説【2026年最新版】/補足.md",
+    "02_記事/012_永電磁式マグネットチャックの技術的優位性 電磁式・永磁式との徹底比較",
+    "02_記事/011_マグネットチャックとは?原理・種類・用途を完全解説【2026年最新版】/magnetic-chuck-complete-guide-en.md.md",
+    "02_記事/011_マグネットチャックとは?原理・種類・用途を完全解説【2026年最新版】/magnetic-chuck-complete-guide-ja.md.md",
+    "05_テンプレート/技術解説記事テンプレート.md",
+    "02_記事/011_マグネットチャックとは?原理・種類・用途を完全解説【2026年最新版】",
+    "04_ナレッジベース/記事編集ガイドライン.md",
+    "00_管理/記事マスターリスト.md",
+    "00_管理/コンテンツマップ.md",
+    "02_記事/002_【国際安全基準】OSHA・DGUVから読み解く旋盤作業の突起物リスクと「除去」による本質的安全化.md",
+    "02_記事/004_旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術.md",
+    "02_記事/010_職人の「暗黙知」をデータ化する：次世代旋盤オペレーターに求められるスキルセット",
+    "02_記事/009_旋盤加工における「素材（被削材）」の基礎：アルミ、ステンレス、難削材のクランプ特性",
+    "02_記事/008_切削油（クーラント）と切りくず処理の基本：連続無人運転を阻む要因と対策",
+    "02_記事/007_ビビリ（チャタリング）の発生メカニズムと剛性：ワーク保持から見直す5つの対策",
+    "01_企画.canvas"
+  ]
+}
