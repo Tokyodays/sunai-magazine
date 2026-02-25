@@ -1,6 +1,12 @@
 ---
 
-記事ID: CMP-001-EN タイトル: Magnetic Chuck vs. Hydraulic Chuck vs. Mechanical Chuck: A 3-Axis Comparison of Productivity, Cost, and Precision 作成日: 2026-02-20 更新日: 2026-02-20 公開日: 著者: Sun Ai Editorial Team ステータス: #draft
+記事ID: magnetic_vs_hydraulic_vs_mechanical_chuck_en
+タイトル: Magnetic Chuck vs. Hydraulic Chuck vs. Mechanical Chuck: A 3-Axis Comparison of Productivity, Cost, and Precision
+作成日: 2026-02-20
+更新日: 2026-02-20
+公開日:
+著者: Sun Ai Editorial Team
+ステータス: #draft
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ This article objectively compares the three major workpiece holding methods — 
 
 ---
 
-## 本文
+## Magnetic Chuck vs. Hydraulic Chuck vs. Mechanical Chuck: A 3-Axis Comparison of Productivity, Cost, and Precision
 
 ### 1. Why Workholding Method Is a Competitive Variable
 

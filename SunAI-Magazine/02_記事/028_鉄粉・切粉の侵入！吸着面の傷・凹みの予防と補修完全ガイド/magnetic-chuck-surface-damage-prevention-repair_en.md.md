@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair 作成日: 2026-02-23 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: magnetic-chuck-surface-damage-prevention-repair_en
+タイトル: Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair
+作成日: 2026-02-23
+更新日:
+公開日:
+著者:
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ Iron and cutting chips that accumulate on a magnetic chuck's pole face are silen
 
 ---
 
-## Body
+## Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair
 
 ### 1. How Iron Chip Contamination Damages Magnetic Chuck Performance
 

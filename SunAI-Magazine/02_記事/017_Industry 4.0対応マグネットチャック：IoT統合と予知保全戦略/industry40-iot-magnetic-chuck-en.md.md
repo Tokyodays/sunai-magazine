@@ -1,6 +1,12 @@
 ---
 
-記事ID: ART-EN-001 タイトル: Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance 作成日: 2026-02-21 更新日: 公開日: 著者: Sun Ai Editorial Team ステータス: #構想中
+記事ID: industry40-iot-magnetic-chuck-en
+タイトル: Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance
+作成日: 2026-02-21
+更新日:
+公開日:
+著者: Sun Ai Editorial Team
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -47,7 +53,7 @@ The evolution from conventional permanent magnetic chucks to smart, network-conn
 
 ---
 
-## 本文
+## Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance
 
 ### 1. Why Magnetic Chucks Are the Critical Node in a Smart Factory Workholding System
 

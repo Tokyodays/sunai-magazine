@@ -1,6 +1,12 @@
 ---
 
-記事ID: MC-5FACE-001-EN タイトル: "5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining" 作成日: 2026-02-20 更新日: 2026-02-20 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: magnetic-chuck-5-face-machining-guide_en
+タイトル: "5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining"
+作成日: 2026-02-20
+更新日: 2026-02-20
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -49,7 +55,7 @@ This guide explains how Sun Ai magnetic chucks enable 5-face simultaneous machin
 
 ---
 
-## 本文
+## "5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining"
 
 ### 1. The Core Advantage: A Clamp-Free Top Surface
 

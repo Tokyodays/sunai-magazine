@@ -1,6 +1,12 @@
 ---
 
-記事ID: ART-EN-001 タイトル: Power Outage Safety: Why Electro-Permanent Magnetic Chucks Are Chosen in Emerging Markets 作成日: 2026-02-21 更新日: 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: power-outage-magnetic-chuck-emerging-markets-en
+タイトル: Power Outage Safety: Why Electro-Permanent Magnetic Chucks Are Chosen in Emerging Markets
+作成日: 2026-02-21
+更新日:
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ In regions where planned power outages and voltage fluctuations of ±15% are eve
 
 ---
 
-## 本文
+## Power Outage Safety: Why Electro-Permanent Magnetic Chucks Are Chosen in Emerging Markets
 
 ### 1. The Hidden Risk Inside Every Electromagnetic Chuck
 

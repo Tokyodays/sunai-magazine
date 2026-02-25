@@ -1,6 +1,12 @@
 ---
 
-記事ID: 05 タイトル: Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan 作成日: 2026-02-23 更新日: 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: power-outage-magnetic-chuck_en
+タイトル: Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan
+作成日: 2026-02-23
+更新日:
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ This article compares electromagnetic and electro-permanent magnetic chucks from
 
 ---
 
-## Body
+## Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan
 
 ### 1. The Fatal Weakness of Electromagnetic Chucks: Zero Holding Force at Power Loss
 

@@ -1,6 +1,12 @@
 ---
 
-記事ID: ART-EN-COOL-001 タイトル: Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them 作成日: 2026-02-19 更新日: 公開日: 著者: Sun Ai Editorial Team ステータス: #構想中
+記事ID: coolant_chip_management_en
+タイトル: Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them
+作成日: 2026-02-19
+更新日:
+公開日:
+著者: Sun Ai Editorial Team
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -44,7 +50,7 @@ This article explains the fundamental role of cutting fluid (coolant) in precisi
 
 ---
 
-## 本文
+## Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them
 
 ### 1. The Hidden Enemy of Lights-Out Machining: Chips and Coolant Working Against You
 

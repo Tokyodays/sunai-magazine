@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods 作成日: 2026-02-23 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: magnetic_chuck_cleaning_en
+タイトル: 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods
+作成日: 2026-02-23
+更新日:
+公開日:
+著者:
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ Water-soluble coolant and cutting oil create invisible oil films on magnetic chu
 
 ---
 
-## Body
+## 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods
 
 ### 1. The Hidden Enemy: How Coolant Destroys Magnetic Holding Power
 

@@ -1,6 +1,12 @@
 ---
 
-記事ID: 01 タイトル: Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions 作成日: 2026-02-22 更新日: 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: magnetic-chuck-holding-force-loss_en
+タイトル: Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions
+作成日: 2026-02-22
+更新日:
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ A workpiece shifting mid-cut is one of the most critical failures on the shop fl
 
 ---
 
-## 本文
+## Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions
 
 ### 1. Why Holding Force Loss Is So Dangerous
 

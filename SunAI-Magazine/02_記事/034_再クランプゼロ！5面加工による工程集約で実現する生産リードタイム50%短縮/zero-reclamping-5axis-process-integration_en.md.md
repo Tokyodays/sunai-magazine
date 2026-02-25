@@ -1,11 +1,11 @@
 ---
 
-記事ID: 
-タイトル: Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration 
-作成日: 2026-02-24 
-更新日: 
-公開日: 
-著者: 
+記事ID: zero-reclamping-5axis-process-integration_en
+タイトル: Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration
+作成日: 2026-02-24
+更新日:
+公開日:
+著者:
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ This article compares conventional multi-process machining (3 re-clampings, ~15 
 
 ---
 
-## 本文
+## Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration
 
 ### 1. The Hidden Cost of Re-Clamping
 

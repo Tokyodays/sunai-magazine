@@ -1,11 +1,11 @@
 ---
 
-記事ID: 
-タイトル: Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys 
-作成日: 2026-02-25 
-更新日: 
-公開日: 
-著者: 
+記事ID: zero-deformation-thin-plate-titanium_en
+タイトル: Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys
+作成日: 2026-02-25
+更新日:
+公開日:
+著者:
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ Conventional vise and scroll chuck clamping deforms thin plates and hard-to-mach
 
 ---
 
-## 本文
+## Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys
 
 ### 1. The Root Cause of Deformation: Uneven Clamping Force
 

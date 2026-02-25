@@ -1,11 +1,11 @@
 ---
 
-記事ID: 
-タイトル: Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks 
-作成日: 2026-02-23 
-更新日: 
-公開日: 
-著者: 
+記事ID: counterfeit-magnetic-chuck-identification_en
+タイトル: Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks
+作成日: 2026-02-23
+更新日:
+公開日:
+著者:
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ Counterfeit magnetic chucks—often sold at 30–50% below genuine pricing—hav
 
 ---
 
-## 本文
+## Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks
 
 ### 1. The Real Cost of a Counterfeit Magnetic Chuck
 

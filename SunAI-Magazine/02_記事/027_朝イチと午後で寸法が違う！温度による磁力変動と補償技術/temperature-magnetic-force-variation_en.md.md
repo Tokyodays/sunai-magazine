@@ -1,6 +1,12 @@
 ---
 
-記事ID: sunai-temp-magnetic-en-001 タイトル: Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation 作成日: 2026-02-23 更新日: 2026-02-23 公開日: 著者: Sun Ai Editorial Team ステータス: #構想中
+記事ID: temperature-magnetic-force-variation_en
+タイトル: Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation
+作成日: 2026-02-23
+更新日: 2026-02-23
+公開日:
+著者: Sun Ai Editorial Team
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ Factory floors without climate control routinely see temperature swings of ±10�
 
 ---
 
-## 本文
+## Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation
 
 ### 1. The Physics: Why Temperature Changes Magnetic Force
 

@@ -1,11 +1,11 @@
 ---
 
-記事ID: 
-タイトル: New Hires Combat-Ready in 3 Days! Complete Clamping Skill Standardization with Magnetic Chucks 
-作成日: 2026-02-24 
-更新日: 
-公開日: 
-著者: 
+記事ID: magnetic-chuck-skill-standardization_en
+タイトル: New Hires Combat-Ready in 3 Days! Complete Clamping Skill Standardization with Magnetic Chucks
+作成日: 2026-02-24
+更新日:
+公開日:
+著者:
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ Traditional clamping expertise—requiring 6 months of apprenticeship—can now 
 
 ---
 
-## 本文
+## New Hires Combat-Ready in 3 Days! Complete Clamping Skill Standardization with Magnetic Chucks
 
 ### 1. The Skilled Labor Shortage Is Not Going Away—So Change the Skill Requirement
 

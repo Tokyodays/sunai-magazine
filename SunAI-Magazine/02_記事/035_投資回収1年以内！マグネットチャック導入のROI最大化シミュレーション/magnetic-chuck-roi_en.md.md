@@ -1,11 +1,11 @@
 ---
 
-記事ID: ROI-EN-001 
-タイトル: ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide 
-作成日: 2026-02-25 
-更新日: 2026-02-25 
-公開日: 
-著者: Sun Ai Editorial 
+記事ID: magnetic-chuck-roi_en
+タイトル: ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide
+作成日: 2026-02-25
+更新日: 2026-02-25
+公開日:
+著者: Sun Ai Editorial
 ステータス: #構想中
 
 【カテゴリ】 category: #ROI分析 #投資判断
@@ -54,7 +54,7 @@ This article provides a concrete, step-by-step ROI simulation for plant managers
 
 ---
 
-## Body
+## ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide
 
 ### 1. Why Setup Time Is Your Hidden Cost Center
 
