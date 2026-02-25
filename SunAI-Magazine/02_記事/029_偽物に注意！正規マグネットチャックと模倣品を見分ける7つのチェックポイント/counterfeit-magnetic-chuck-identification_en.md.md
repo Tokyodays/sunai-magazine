@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks 作成日: 2026-02-23 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: 
+タイトル: Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks 
+作成日: 2026-02-23 
+更新日: 
+公開日: 
+著者: 
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
