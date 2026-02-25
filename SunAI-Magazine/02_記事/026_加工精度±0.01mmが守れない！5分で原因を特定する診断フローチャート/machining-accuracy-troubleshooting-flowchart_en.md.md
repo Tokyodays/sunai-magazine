@@ -1,6 +1,12 @@
 ---
 
-記事ID: 006 タイトル: Can't Achieve ±0.01mm Tolerance! 5-Minute Root Cause Diagnosis Flowchart 作成日: 2026-02-23 更新日: 2026-02-23 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: machining-accuracy-troubleshooting-flowchart_en
+タイトル: Can't Achieve ±0.01mm Tolerance! 5-Minute Root Cause Diagnosis Flowchart
+作成日: 2026-02-23
+更新日: 2026-02-23
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ When machining accuracy suddenly deteriorates or consistent tolerances cannot be
 
 ---
 
-## 本文
+## Can't Achieve ±0.01mm Tolerance! 5-Minute Root Cause Diagnosis Flowchart
 
 ### 1. Why Systematic Diagnosis Matters More Than Intuition
 

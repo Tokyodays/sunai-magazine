@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: Magnetic Chuck Lifespan & Maintenance: The Secret Behind 20-Year Designs 作成日: 2026-02-21 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: magnetic-chuck-lifespan-maintenance-en
+タイトル: Magnetic Chuck Lifespan & Maintenance: The Secret Behind 20-Year Designs
+作成日: 2026-02-21
+更新日:
+公開日:
+著者:
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -47,7 +53,7 @@ This article explains why Sun Ai permanent magnetic chucks can operate reliably 
 
 ---
 
-## 本文
+## Magnetic Chuck Lifespan & Maintenance: The Secret Behind 20-Year Designs
 
 ### 1. Why Magnetic Chuck Lifespan Matters for Your Bottom Line
 

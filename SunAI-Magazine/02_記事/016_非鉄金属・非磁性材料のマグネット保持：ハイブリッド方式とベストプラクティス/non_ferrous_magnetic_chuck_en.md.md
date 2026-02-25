@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices 作成日: 2026-02-20 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: non_ferrous_magnetic_chuck_en
+タイトル: Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices
+作成日: 2026-02-20
+更新日:
+公開日:
+著者:
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -47,7 +53,7 @@ Many shops assume magnetic chucks are only for steel. This article dismantles th
 
 ---
 
-## 本文
+## Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices
 
 ### 1. The Misunderstanding: Why "Magnetic Chucks Don't Work on Non-Ferrous Materials" Is Only Half the Story
 

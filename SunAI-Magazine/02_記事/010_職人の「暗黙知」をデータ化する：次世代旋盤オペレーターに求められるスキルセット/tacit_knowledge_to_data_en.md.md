@@ -1,6 +1,12 @@
 ---
 
-記事ID: 100-en タイトル: From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator 作成日: 2026-02-19 更新日: 公開日: 著者: Sun Ai Magazine ステータス: #構想中
+記事ID: tacit_knowledge_to_data_en
+タイトル: From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator
+作成日: 2026-02-19
+更新日:
+公開日:
+著者: Sun Ai Magazine
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -44,7 +50,7 @@ This article defines the new foundational knowledge that operators must acquire 
 
 ---
 
-## 本文
+## From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator
 
 ### 1. The Invisible Curriculum: What Veteran Operators Actually Know
 

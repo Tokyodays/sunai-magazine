@@ -1,6 +1,12 @@
 ---
 
-記事ID: MC-001-EN タイトル: What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide 作成日: 2026-02-20 更新日: 2026-02-20 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: magnetic-chuck-complete-guide-en
+タイトル: What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
+作成日: 2026-02-20
+更新日: 2026-02-20
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -47,7 +53,7 @@ A comprehensive technical and commercial guide to magnetic chucks: how permanent
 
 ---
 
-## 本文
+## What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
 
 ### 1. Why Magnetic Clamping Matters in Modern Precision Manufacturing
 

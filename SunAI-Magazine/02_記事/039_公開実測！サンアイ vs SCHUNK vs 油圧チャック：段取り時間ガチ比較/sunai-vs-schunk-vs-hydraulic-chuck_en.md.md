@@ -1,11 +1,11 @@
 ---
 
-記事ID: 
-タイトル: Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown 
-作成日: 2026-02-25 
-更新日: 
-公開日: 
-著者: 
+記事ID: sunai-vs-schunk-vs-hydraulic-chuck_en
+タイトル: Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown
+作成日: 2026-02-25
+更新日:
+公開日:
+著者:
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ A head-to-head setup time comparison using a 250mm square, 5kg workpiece across 
 
 ---
 
-## 本文
+## Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown
 
 ### 1. Why Setup Time Is the Hidden Cost Nobody Talks About
 

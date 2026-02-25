@@ -1,9 +1,9 @@
 ---
-記事ID: ART-EN-001
+記事ID: aerospace-repeatability-protocol-en
 タイトル: Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
 作成日: 2026-02-23
 更新日: 2026-02-23
-公開日: 
+公開日:
 著者: Sun Ai Editorial Team
 ステータス: #構想中
 
@@ -67,7 +67,7 @@ This article provides a complete methodology for measuring, documenting, and cer
 
 ---
 
-## Body
+## Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
 
 ### 1. Why Standard Repeatability Claims Are Not Enough for AS9100
 

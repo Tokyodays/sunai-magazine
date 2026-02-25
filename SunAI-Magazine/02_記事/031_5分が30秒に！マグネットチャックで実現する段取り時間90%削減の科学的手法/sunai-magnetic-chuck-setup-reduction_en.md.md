@@ -1,6 +1,12 @@
 ---
 
-記事ID: sunai-smed-001-en タイトル: 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks 作成日: 2026-02-24 更新日: 公開日: 著者: Sun Ai Editorial Team ステータス: #構想中
+記事ID: sunai-magnetic-chuck-setup-reduction_en
+タイトル: 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks
+作成日: 2026-02-24
+更新日:
+公開日:
+著者: Sun Ai Editorial Team
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ Conventional hydraulic or vise clamping can consume 5–8 minutes per workpiece 
 
 ---
 
-## 本文
+## 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks
 
 ### 1. The Hidden Cost of Setup Time
 

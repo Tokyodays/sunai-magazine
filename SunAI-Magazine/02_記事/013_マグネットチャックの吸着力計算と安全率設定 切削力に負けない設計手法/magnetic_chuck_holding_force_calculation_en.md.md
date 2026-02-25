@@ -1,6 +1,12 @@
 ---
 
-記事ID: ART-EN-001 タイトル: Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces 作成日: 2026-02-20 更新日: 2026-02-20 公開日: 著者: Sun Ai Technical Editorial Team ステータス: #完成
+記事ID: magnetic_chuck_holding_force_calculation_en
+タイトル: Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces
+作成日: 2026-02-20
+更新日: 2026-02-20
+公開日:
+著者: Sun Ai Technical Editorial Team
+ステータス: #完成
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ A systematic guide from theoretical calculation of cutting forces to practical s
 
 ---
 
-## 本文
+## Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces
 
 ### 1. Why Holding Force Calculation Is the Most Critical Step in Magnetic Chuck Selection
 

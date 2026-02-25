@@ -1,6 +1,12 @@
 ---
 
-記事ID: 03 タイトル: Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention 作成日: 2026-02-22 更新日: 2026-02-22 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: residual_magnetism_en
+タイトル: Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention
+作成日: 2026-02-22
+更新日: 2026-02-22
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ This article provides a complete technical guide for production engineers and as
 
 ---
 
-## 本文
+## Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention
 
 ### 1. The Hidden Cause of Assembly Line Failures: Residual Magnetism
 

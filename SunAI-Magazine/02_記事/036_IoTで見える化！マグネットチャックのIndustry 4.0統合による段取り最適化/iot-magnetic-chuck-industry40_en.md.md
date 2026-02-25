@@ -1,11 +1,11 @@
 ---
 
-記事ID: IOT-MC-EN-001 
-タイトル: IoT Visualization! Setup Optimization Through Industry 4.0 Integration of Magnetic Chucks 
-作成日: 2026-02-25 
-更新日: 
-公開日: 
-著者: Sun Ai 
+記事ID: iot-magnetic-chuck-industry40_en
+タイトル: IoT Visualization! Setup Optimization Through Industry 4.0 Integration of Magnetic Chucks
+作成日: 2026-02-25
+更新日:
+公開日:
+著者: Sun Ai
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説

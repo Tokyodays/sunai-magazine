@@ -1,6 +1,12 @@
 ---
 
-記事ID: タイトル: Warning: How to Identify Genuine Magnetic Chucks and Avoid Counterfeits [China Market Edition] 作成日: 2026-02-21 更新日: 公開日: 著者: ステータス: #構想中
+記事ID: counterfeit_magnetic_chuck_guide_en
+タイトル: Warning: How to Identify Genuine Magnetic Chucks and Avoid Counterfeits [China Market Edition]
+作成日: 2026-02-21
+更新日:
+公開日:
+著者:
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -46,7 +52,7 @@ The Chinese market has seen a surge in low-quality counterfeit magnetic chucks w
 
 ---
 
-## Body
+## Warning: How to Identify Genuine Magnetic Chucks and Avoid Counterfeits [China Market Edition]
 
 ### 1. The Counterfeit Problem in the Chinese Magnetic Chuck Market
 

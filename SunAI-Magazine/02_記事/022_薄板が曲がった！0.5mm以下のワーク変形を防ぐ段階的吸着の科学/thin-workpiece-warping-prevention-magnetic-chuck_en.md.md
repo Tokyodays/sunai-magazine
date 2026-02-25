@@ -1,6 +1,12 @@
 ---
 
-記事ID: 02 タイトル: Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm 作成日: 2026-02-22 更新日: 公開日: 著者: Sun Ai ステータス: #構想中
+記事ID: thin-workpiece-warping-prevention-magnetic-chuck
+タイトル: Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm
+作成日: 2026-02-22
+更新日:
+公開日:
+著者: Sun Ai
+ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
 
@@ -45,7 +51,7 @@ Thin workpieces under 0.5mm frequently warp the moment they are magnetized onto 
 
 ---
 
-## 本文
+## Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm
 
 ### 1. The Root Cause: Why Thin Workpieces Warp Under Magnetic Clamping
 

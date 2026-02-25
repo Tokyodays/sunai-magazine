@@ -1,11 +1,11 @@
 ---
 
-記事ID: MC-SOP-001-EN 
-タイトル: Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup 
-作成日: 2026-02-25 
-更新日: 2026-02-25 
-公開日: 
-著者: Sun Ai 
+記事ID: magnetic-chuck-setup-sop-templates_en
+タイトル: Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup
+作成日: 2026-02-25
+更新日: 2026-02-25
+公開日:
+著者: Sun Ai
 ステータス: #構想中
 
 【カテゴリ】 category: #技術解説
@@ -51,7 +51,7 @@ Ready-to-use standard work instruction (SWI) templates for magnetic chuck setup,
 
 ---
 
-## 本文
+## Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup
 
 ### 1. Why Standard Work Instructions Matter for Magnetic Chuck Operations
 
