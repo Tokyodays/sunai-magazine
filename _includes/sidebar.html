@@ -1,0 +1,35 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl or page.url == '/' or page.url == '/index.html' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+
+      {% comment %}
+        The code below dynamically generates links to all posts.
+      {% endcomment %}
+      {% for post in site.posts %}
+        <a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endfor %}
+
+      {% comment %}
+        The code below dynamically generates links to all pages.
+      {% endcomment %}
+      {% assign pages = site.pages | sort: 'title' %}
+      {% for node in pages %}
+        {% if node.title and node.layout != nil %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
