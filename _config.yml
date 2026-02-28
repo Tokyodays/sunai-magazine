@@ -1,1 +1,7 @@
-theme: jekyll-theme-hyde
+title: SunAi Magazine
+description: "SunAi Magazine - 記事と企画のアーカイブ"
+tagline: "AIとクリエイティビティの交差点を探索する"
+
+remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
