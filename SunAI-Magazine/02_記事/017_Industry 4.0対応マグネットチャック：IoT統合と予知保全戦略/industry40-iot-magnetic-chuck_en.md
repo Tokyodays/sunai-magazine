@@ -52,7 +52,7 @@ The evolution from conventional permanent magnetic chucks to smart, network-conn
 3. Practical predictive maintenance algorithms and the ROI case for smart workholding, with reference to Sun Ai's product lineup
 
 ---
-## Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance
+## 017 Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance
 
 ### 1. Why Magnetic Chucks Are the Critical Node in a Smart Factory Workholding System
 

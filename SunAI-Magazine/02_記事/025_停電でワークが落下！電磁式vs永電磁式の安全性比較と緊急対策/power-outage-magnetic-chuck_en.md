@@ -51,7 +51,7 @@ This article compares electromagnetic and electro-permanent magnetic chucks from
 3. How to evaluate power-outage risk at your facility and select the right magnetic chuck
 
 ---
-## Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan
+## 025 Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan
 
 ### 1. The Fatal Weakness of Electromagnetic Chucks: Zero Holding Force at Power Loss
 

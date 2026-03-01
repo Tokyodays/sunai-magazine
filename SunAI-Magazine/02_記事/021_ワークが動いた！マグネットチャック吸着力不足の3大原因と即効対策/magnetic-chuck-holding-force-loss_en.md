@@ -50,7 +50,7 @@ A workpiece shifting mid-cut is one of the most critical failures on the shop fl
 3. Proven corrective actions and how Sun Ai's chuck lineup eliminates the underlying issues
 
 ---
-## Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions
+## 021 Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions
 
 ### 1. Why Holding Force Loss Is So Dangerous
 

@@ -50,7 +50,7 @@ This article explains how to retrofit IoT sensors onto Sun Ai magnetic chucks to
 3. How PLC/MES data integration delivers predictive maintenance and reduces unplanned downtime
 
 ---
-## Main Content
+## 036 Main Content
 
 ### 1. Why Magnetic Chucks Are the Starting Point for Smart Factory Integration
 

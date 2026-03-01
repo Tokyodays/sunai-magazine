@@ -50,7 +50,7 @@ Conventional vise and scroll chuck clamping deforms thin plates and hard-to-mach
 3. How off-site setup with the SEP-02A(B) pre-setter reduces machine downtime and improves circularity to the micron level
 
 ---
-## Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys
+## 037 Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys
 
 ### 1. The Root Cause of Deformation: Uneven Clamping Force
 

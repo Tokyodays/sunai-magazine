@@ -50,7 +50,7 @@ Ready-to-use standard work instruction (SWI) templates for magnetic chuck setup,
 3. A copy-and-paste template framework adaptable to SM, SWL-H190, and sign bar chuck configurations
 
 ---
-## Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup
+## 038 Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup
 
 ### 1. Why Standard Work Instructions Matter for Magnetic Chuck Operations
 

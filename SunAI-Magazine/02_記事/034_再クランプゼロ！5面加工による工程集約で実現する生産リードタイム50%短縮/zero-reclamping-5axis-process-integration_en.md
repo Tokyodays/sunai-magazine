@@ -50,7 +50,7 @@ This article compares conventional multi-process machining (3 re-clampings, ~15 
 3. Quantified before/after comparison: setup time, circularity, surface roughness, and lead time
 
 ---
-## Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration
+## 034 Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration
 
 ### 1. The Hidden Cost of Re-Clamping
 

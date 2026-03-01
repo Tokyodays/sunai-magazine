@@ -50,7 +50,7 @@ A systematic guide from theoretical calculation of cutting forces to practical s
 3. How to set evidence-based safety factors of 3–5× for dynamic cutting and interrupted operations
 
 ---
-## Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces
+## 013 Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces
 
 ### 1. Why Holding Force Calculation Is the Most Critical Step in Magnetic Chuck Selection
 

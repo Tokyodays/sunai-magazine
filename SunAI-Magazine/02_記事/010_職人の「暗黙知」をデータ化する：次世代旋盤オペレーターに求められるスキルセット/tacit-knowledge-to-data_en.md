@@ -49,7 +49,7 @@ This article defines the new foundational knowledge that operators must acquire 
 3. How Sun Ai's off-site setup ecosystem (電極プリセッター, 電極回転装置, マグネットチャック) supports the transition
 
 ---
-## From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator
+## 010 From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator
 
 ### 1. The Invisible Curriculum: What Veteran Operators Actually Know
 

@@ -33,7 +33,7 @@ index: 035
 【翻訳版】 translations: magnetic-chuck-roi_ja.md
 
 ---
-# ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide
+# 035 ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide
 
 ## Overview
 

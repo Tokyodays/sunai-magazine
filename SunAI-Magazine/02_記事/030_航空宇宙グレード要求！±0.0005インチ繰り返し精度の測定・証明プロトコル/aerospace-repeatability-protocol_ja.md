@@ -47,7 +47,7 @@ related: [[]]
 【翻訳版】
 translations: aerospace-repeatability-protocol_en.md
 ---
-# 航空宇宙グレード要求！±0.0005インチ繰り返し精度の測定・証明プロトコル
+# 030 航空宇宙グレード要求！±0.0005インチ繰り返し精度の測定・証明プロトコル
 
 ## 概要
 

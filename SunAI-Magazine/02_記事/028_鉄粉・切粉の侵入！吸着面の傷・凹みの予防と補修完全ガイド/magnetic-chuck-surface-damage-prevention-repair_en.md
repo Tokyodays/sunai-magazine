@@ -51,7 +51,7 @@ Iron and cutting chips that accumulate on a magnetic chuck's pole face are silen
 3. Practical data on residual magnetism, surface flatness tolerances, and safety precautions when handling high-field chucks
 
 ---
-## Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair
+## 028 Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair
 
 ### 1. How Iron Chip Contamination Damages Magnetic Chuck Performance
 

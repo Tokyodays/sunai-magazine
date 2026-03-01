@@ -33,7 +33,7 @@ index: 015
 【翻訳版】 translations: magnetic-chuck-5-face-machining-guide_en.md
 
 ---
-# マグネットチャックで実現する5面加工：治具レス加工の設計ガイド
+# 015 マグネットチャックで実現する5面加工：治具レス加工の設計ガイド
 
 ## 概要
 

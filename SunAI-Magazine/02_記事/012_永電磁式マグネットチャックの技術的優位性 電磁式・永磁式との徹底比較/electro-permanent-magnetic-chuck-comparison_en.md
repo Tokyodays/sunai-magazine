@@ -50,7 +50,7 @@ This article provides a quantitative, four-axis comparison of electro-permanent 
 3. How to apply this data to internal approval documents, RFQ responses, and ROI calculations
 
 ---
-## Why Electro-Permanent Magnetic Chucks Outperform Electromagnetic and Permanent Magnetic Types: A Data-Driven Comparison
+## 012 Why Electro-Permanent Magnetic Chucks Outperform Electromagnetic and Permanent Magnetic Types: A Data-Driven Comparison
 
 ### 1. The Three Types of Magnetic Chucks — and Why the Difference Matters
 
