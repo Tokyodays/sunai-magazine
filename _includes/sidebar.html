@@ -17,34 +17,21 @@
         </li>
 
         {% comment %}
-        The code below dynamically generates links to all posts.
-        Only Japanese posts (_ja.md) are shown.
+        Combine posts and pages, then sort by index property.
+        Only Japanese content (_ja.md) is shown.
         {% endcomment %}
-        {% assign sorted_posts = site.posts | sort: "index" %}
-        {% for post in sorted_posts %}
-        {% unless post.path contains "_en.md" %}
+        {% assign items = site.posts | concat: site.pages | sort: "index" %}
+        {% for item in items %}
+        {% if item.title and item.layout != nil and item.url != "/" and item.url != "/index.html" %}
+        {% unless item.path contains "_en.md" %}
         <li>
-          <a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}"
-            href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endunless %}
-        {% endfor %}
-
-        {% comment %}
-        The code below dynamically generates links to all pages.
-        Only Japanese pages (_ja.md) are shown.
-        {% endcomment %}
-        {% assign sorted_pages = site.pages | sort: "index" %}
-        {% for node in sorted_pages %}
-        {% if node.title and node.layout != nil and node.url != "/" and node.url != "/index.html" %}
-        {% unless node.path contains "_en.md" %}
-        <li>
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-            href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
+            href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endunless %}
         {% endif %}
         {% endfor %}
+
 
 
       </ul>
