@@ -17,12 +17,12 @@
         </li>
 
         {% comment %}
-        Combine posts and pages, then show items with an index property.
-        Sorting will be numeric index.
+        Combine posts and pages, then sort by index property.
+        Only Japanese content (_ja.md) is shown.
         {% endcomment %}
         {% assign items = site.posts | concat: site.pages | sort: "index" %}
         {% for item in items %}
-        {% if item.index and item.title and item.url != "/" and item.url != "/index.html" %}
+        {% if item.title and item.url != "/" and item.url != "/index.html" %}
         {% unless item.path contains "_en.md" %}
         <li>
           <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
