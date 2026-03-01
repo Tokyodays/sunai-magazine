@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48b678af792051ab",
+        "id": "6727cc5573427094",
         "type": "tabs",
         "children": [
           {
-            "id": "a35d2ae5bd197034",
+            "id": "4a950c317a8c1448",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/補足.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.4"
+              "icon": "lucide-file",
+              "title": "補足"
             }
           }
         ]
@@ -181,8 +183,16 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "a35d2ae5bd197034",
+  "active": "4a950c317a8c1448",
   "lastOpenFiles": [
+    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_en.md.md",
+    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/補足.md",
+    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_ja.md.md",
+    "00_管理/コンテンツマップ.md",
+    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる",
+    "00_管理/記事マスターリスト.md",
+    "05_テンプレート/技術解説記事テンプレート.md",
+    "04_ナレッジベース/記事編集ガイドライン.md",
     "02_記事/039_公開実測！サンアイ vs SCHUNK vs 油圧チャック：段取り時間ガチ比較/補足.md",
     "02_記事/039_公開実測！サンアイ vs SCHUNK vs 油圧チャック：段取り時間ガチ比較/sunai-vs-schunk-vs-hydraulic-chuck_en.md.md",
     "02_記事/039_公開実測！サンアイ vs SCHUNK vs 油圧チャック：段取り時間ガチ比較/sunai-vs-schunk-vs-hydraulic-chuck_ja.md.md",
@@ -208,17 +218,9 @@
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/zero-reclamping-5axis-process-integration_ja.md.md",
     "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化/補足.md",
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮",
-    "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化/magnetic-chuck-skill-standardization_en.md.md",
-    "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化/magnetic-chuck-skill-standardization_ja.md.md",
-    "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件/補足.md",
     "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化",
-    "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件/breaking-001mm-barrier-magnetic-chuck_en.md.md",
-    "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件/breaking-001mm-barrier-magnetic-chuck_ja.md.md",
     "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件",
-    "02_記事/031_5分が30秒に！マグネットチャックで実現する段取り時間90%削減の科学的手法/補足.md",
-    "02_記事/031_5分が30秒に！マグネットチャックで実現する段取り時間90%削減の科学的手法/sunai-magnetic-chuck-setup-reduction_en.md.md",
     "02_記事/031_5分が30秒に！マグネットチャックで実現する段取り時間90%削減の科学的手法",
-    "02_記事/030_航空宇宙グレード要求！±0.0005インチ繰り返し精度の測定・証明プロトコル",
     "01_企画.canvas"
   ]
 }
