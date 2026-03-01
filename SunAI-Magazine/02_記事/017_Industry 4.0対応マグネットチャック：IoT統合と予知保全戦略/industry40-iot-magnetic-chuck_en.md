@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: industry40-iot-magnetic-chuck_en
 タイトル: Industry 4.0-Ready Magnetic Chuck: IoT Integration & Predictive Maintenance
 index: 017

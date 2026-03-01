@@ -1,9 +1,40 @@
 ---
+layout: post
+記事ID: international-safety-standards-lathe-risks_ja
+タイトル: "【国際安全基準】OSHA・DGUVから読み解く旋盤作業の突起物リスクと「除去」による本質的安全化"
 index: 002
+作成日: 2026-02-19
+更新日:
+公開日:
+著者:
+ステータス: #構想中
+
+【カテゴリ】 category: #技術解説
+
+【ファイル名】 international-safety-standards-lathe-risks_ja.md
+
+【読者レベル】 level: #初心者向け
+
+【製品】 products: 
+
+【技術】 tech: 
+
+【業界】 industry: 
+
+【目的】 purpose: 
+
+【言語】 lang: #日本語
+
+【SEO】 seo: 
+
+【関連記事】 related: [[]]
+
+【翻訳版】 translations: international-safety-standards-lathe-risks_en.md
 ---
+## 002 【国際安全基準】OSHA・DGUVから読み解く旋盤作業の突起物リスクと「除去」による本質的安全化
 
 旋盤加工における労働災害の最大要因である「巻き込まれ事故」。米国労働安全衛生局（OSHA）やドイツ法的傷害保険（DGUV）といった国際規格において、回転体の防護は極めて厳格に規定されています。本記事では、事故の元凶となる「突起物（チャックの爪）」のリスクを分析し、カバーだけに頼らない本質的な安全対策の考え方を解説します。
-## 002 1. なぜ「カバー」だけでは不十分なのか？
+## 1. なぜ「カバー」だけでは不十分なのか？
 
 国際規格が求める「安全対策のヒエラルキー」
 

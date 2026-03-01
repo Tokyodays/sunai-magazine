@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-holding-force-calculation_ja
 タイトル: マグネットチャックの吸着力計算と安全率設定：切削力に負けない設計手法
 index: 013

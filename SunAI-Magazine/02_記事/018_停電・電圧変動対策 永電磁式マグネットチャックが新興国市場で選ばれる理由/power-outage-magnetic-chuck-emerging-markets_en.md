@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: power-outage-magnetic-chuck-emerging-markets_en
 タイトル: Power Outage Safety: Why Electro-Permanent Magnetic Chucks Are Chosen in Emerging Markets
 index: 018

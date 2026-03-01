@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: aerospace-repeatability-protocol_en
 タイトル: Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
 index: 030

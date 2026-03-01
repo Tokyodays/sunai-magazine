@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: counterfeit-magnetic-chuck-guide_en
 タイトル: Warning: How to Identify Genuine Magnetic Chucks and Avoid Counterfeits [China Market Edition]
 index: 020

@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: machining-accuracy-troubleshooting-flowchart_en
 タイトル: Can't Achieve ±0.01mm Tolerance! 5-Minute Root Cause Diagnosis Flowchart
 index: 026

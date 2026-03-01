@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-lifespan-maintenance_ja
 タイトル: マグネットチャックの寿命とメンテナンス：20年使える設計の秘密
 index: 019

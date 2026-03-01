@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-skill-standardization_en
 タイトル: New Hires Combat-Ready in 3 Days! Complete Clamping Skill Standardization with Magnetic Chucks
 index: 033

@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: machining-accuracy-troubleshooting-flowchart_ja
 タイトル: 加工精度±0.01mmが守れない！5分で原因を特定する診断フローチャート
 index: 026

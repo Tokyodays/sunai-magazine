@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: sunai-vs-schunk-vs-hydraulic-chuck_ja
 タイトル: 公開実測！サンアイ vs SCHUNK vs 油圧チャック：段取り時間ガチ比較
 index: 039

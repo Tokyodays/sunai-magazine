@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: industry40-iot-magnetic-chuck_ja
 タイトル: Industry 4.0対応マグネットチャック：IoT統合と予知保全戦略
 index: 017

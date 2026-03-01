@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: chatter-vibration-workholding_ja
 タイトル: ビビリ（チャタリング）の発生メカニズムと剛性：ワーク保持から見直す5つの対策
 index: 007

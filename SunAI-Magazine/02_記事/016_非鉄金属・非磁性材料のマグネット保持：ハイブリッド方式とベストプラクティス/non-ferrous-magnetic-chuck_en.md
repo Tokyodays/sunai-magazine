@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: non-ferrous-magnetic-chuck_en
 タイトル: Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices
 index: 016

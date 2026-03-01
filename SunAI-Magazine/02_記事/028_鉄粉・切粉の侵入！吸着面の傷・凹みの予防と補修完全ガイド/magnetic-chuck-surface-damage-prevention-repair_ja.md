@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-surface-damage-prevention-repair_ja
 タイトル: 鉄粉・切粉の侵入！吸着面の傷・凹みの予防と補修完全ガイド
 index: 028

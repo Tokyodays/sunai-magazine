@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: power-outage-magnetic-chuck_en
 タイトル: Power Outage = Workpiece Drop! Electromagnetic vs Electro-Permanent: Safety Comparison & Emergency Plan
 index: 025

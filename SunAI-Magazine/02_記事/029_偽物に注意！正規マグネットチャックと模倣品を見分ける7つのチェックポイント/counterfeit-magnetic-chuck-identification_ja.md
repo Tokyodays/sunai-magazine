@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: counterfeit-magnetic-chuck-identification_ja
 タイトル: 偽物に注意！正規マグネットチャックと模倣品を見分ける7つのチェックポイント
 index: 029

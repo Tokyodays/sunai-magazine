@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: zero-reclamping-5axis-process-integration_ja
 タイトル: 再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮
 index: 034

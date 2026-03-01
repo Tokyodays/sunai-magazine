@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: sunai-magnetic-chuck-setup-reduction_ja
 タイトル: 5分が30秒に！マグネットチャックで実現する段取り時間90%削減の科学的手法
 index: 031

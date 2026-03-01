@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: iot-magnetic-chuck-industry40_ja
 タイトル: IoTで見える化！マグネットチャックのIndustry 4.0統合による段取り最適化
 index: 036

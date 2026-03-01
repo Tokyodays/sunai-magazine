@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-holding-force-calculation_en
 タイトル: Magnetic Chuck Holding Force Calculation and Safety Factor Settings: Design Methods to Withstand Cutting Forces
 index: 013

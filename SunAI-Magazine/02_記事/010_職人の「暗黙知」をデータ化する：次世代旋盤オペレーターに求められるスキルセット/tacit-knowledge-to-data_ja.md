@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: tacit-knowledge-to-data_ja
 タイトル: 職人の「暗黙知」をデータ化する：次世代旋盤オペレーターに求められるスキルセット
 index: 010

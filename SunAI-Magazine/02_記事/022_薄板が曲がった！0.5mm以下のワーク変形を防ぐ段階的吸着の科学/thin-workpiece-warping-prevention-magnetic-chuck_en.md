@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: thin-workpiece-warping-prevention-magnetic-chuck
 タイトル: Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm
 index: 022

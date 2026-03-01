@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: coolant-chip-management_en
 タイトル: Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them
 index: 008

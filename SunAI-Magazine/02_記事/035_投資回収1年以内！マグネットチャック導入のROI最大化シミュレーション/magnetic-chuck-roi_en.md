@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-roi_en
 タイトル: ROI Within 12 Months! Magnetic Chuck Investment Payback Maximization Guide
 index: 035

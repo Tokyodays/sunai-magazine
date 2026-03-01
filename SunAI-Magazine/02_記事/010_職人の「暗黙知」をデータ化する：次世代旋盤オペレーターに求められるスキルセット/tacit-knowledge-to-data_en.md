@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: tacit-knowledge-to-data_en
 タイトル: From Craftsman's Intuition to Data: The Skill Set Required of the Next-Generation Lathe Operator
 index: 010

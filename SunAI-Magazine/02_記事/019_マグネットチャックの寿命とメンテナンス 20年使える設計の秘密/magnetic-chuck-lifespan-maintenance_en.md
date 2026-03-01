@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-lifespan-maintenance_en
 タイトル: Magnetic Chuck Lifespan & Maintenance: The Secret Behind 20-Year Designs
 index: 019

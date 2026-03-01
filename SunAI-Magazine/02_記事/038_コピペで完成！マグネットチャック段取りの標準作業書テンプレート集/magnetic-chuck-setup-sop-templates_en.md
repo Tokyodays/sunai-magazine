@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-setup-sop-templates_en
 タイトル: Copy & Paste Ready! Standard Work Instruction Templates for Magnetic Chuck Setup
 index: 038

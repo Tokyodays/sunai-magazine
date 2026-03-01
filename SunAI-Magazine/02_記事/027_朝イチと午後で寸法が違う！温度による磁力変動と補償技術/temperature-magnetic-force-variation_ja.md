@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: temperature-magnetic-force-variation_ja
 タイトル: 朝イチと午後で寸法が違う！温度による磁力変動と補償技術
 index: 027

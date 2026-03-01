@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: electro-permanent-magnetic-chuck-comparison_en
 タイトル: Why Electro-Permanent Magnetic Chucks Outperform Electromagnetic and Permanent Magnetic Types: A Data-Driven Comparison
 index: 012

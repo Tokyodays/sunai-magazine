@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: breaking-001mm-barrier-magnetic-chuck_en
 タイトル: Breaking the ±0.01mm Barrier! 5 Technical Conditions for Precision with Magnetic Chucks
 index: 032

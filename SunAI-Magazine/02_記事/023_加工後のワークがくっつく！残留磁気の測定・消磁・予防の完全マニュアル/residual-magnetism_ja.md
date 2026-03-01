@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: residual-magnetism_ja
 タイトル: 加工後のワークがくっつく！残留磁気の測定・消磁・予防の完全マニュアル
 index: 023

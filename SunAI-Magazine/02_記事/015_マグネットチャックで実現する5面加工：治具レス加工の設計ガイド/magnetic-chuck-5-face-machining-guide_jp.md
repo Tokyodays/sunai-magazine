@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-5-face-machining-guide_jp
 タイトル: "マグネットチャックで実現する5面加工：治具レス加工の設計ガイド"
 index: 015

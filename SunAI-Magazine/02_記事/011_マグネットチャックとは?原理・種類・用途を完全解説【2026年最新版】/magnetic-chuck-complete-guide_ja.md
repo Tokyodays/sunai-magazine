@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-complete-guide_ja
 タイトル: マグネットチャックとは？原理・種類・用途を完全解説【2026年最新版】
 index: 011

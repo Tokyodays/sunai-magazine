@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: counterfeit-magnetic-chuck-guide_ja
 タイトル: 模倣品に注意：正規マグネットチャックの見分け方と品質保証【中国市場版】
 index: 020

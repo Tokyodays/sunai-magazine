@@ -1,4 +1,5 @@
 ---
+layout: post
 記事ID: magnetic-chuck-skill-standardization_ja
 タイトル: 新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化
 index: 033
