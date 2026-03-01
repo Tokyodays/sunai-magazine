@@ -52,7 +52,7 @@ Many shops assume magnetic chucks are only for steel. This article dismantles th
 3. How to select the right Sun Ai magnetic chuck model and method for your specific material and application
 
 ---
-## Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices
+## 016 Holding Non-Ferrous and Non-Magnetic Materials with Magnetic Chucks: Hybrid Methods and Best Practices
 
 ### 1. The Misunderstanding: Why "Magnetic Chucks Don't Work on Non-Ferrous Materials" Is Only Half the Story
 

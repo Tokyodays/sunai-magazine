@@ -50,7 +50,7 @@ Factory floors without climate control routinely see temperature swings of Â±10Â
 3. Practical shop-floor countermeasures that do not require full air-conditioning
 
 ---
-## Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation
+## 027 Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation
 
 ### 1. The Physics: Why Temperature Changes Magnetic Force
 

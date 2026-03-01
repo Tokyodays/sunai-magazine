@@ -49,7 +49,7 @@ This article explains the fundamental role of cutting fluid (coolant) in precisi
 3. How workholding geometry—specifically flat-surfaced magnetic chuck designs—can be a decisive factor in achieving stable lights-out production
 
 ---
-## Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them
+## 008 Coolant and Chip Management Basics: Obstacles to Continuous Unmanned Operation and How to Overcome Them
 
 ### 1. The Hidden Enemy of Lights-Out Machining: Chips and Coolant Working Against You
 

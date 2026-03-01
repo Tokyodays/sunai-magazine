@@ -51,7 +51,7 @@ This article provides a complete technical guide for production engineers and as
 3. How to select a magnetic chuck with effective demagnetization built in, based on real measured data
 
 ---
-## Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention
+## 023 Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention
 
 ### 1. The Hidden Cause of Assembly Line Failures: Residual Magnetism
 

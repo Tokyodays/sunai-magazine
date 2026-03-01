@@ -50,7 +50,7 @@ Thin workpieces under 0.5mm frequently warp the moment they are magnetized onto 
 3. Which Sun Ai magnetic chuck model is right for your workpiece material, size, and machining process
 
 ---
-## Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm
+## 022 Thin Plate Deformed! The Science of Stepwise Magnetization to Prevent Warping in Workpieces Under 0.5mm
 
 ### 1. The Root Cause: Why Thin Workpieces Warp Under Magnetic Clamping
 

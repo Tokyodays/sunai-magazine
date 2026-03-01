@@ -50,7 +50,7 @@ Water-soluble coolant and cutting oil create invisible oil films on magnetic chu
 3. How to build a cleaning frequency standard and recording sheet for your floor
 
 ---
-## 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods
+## 024 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods
 
 ### 1. The Hidden Enemy: How Coolant Destroys Magnetic Holding Power
 

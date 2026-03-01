@@ -47,7 +47,7 @@ related: [[]]
 【翻訳版】
 translations: aerospace-repeatability-protocol_ja.md
 ---
-# Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
+# 030 Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
 
 ## Overview
 

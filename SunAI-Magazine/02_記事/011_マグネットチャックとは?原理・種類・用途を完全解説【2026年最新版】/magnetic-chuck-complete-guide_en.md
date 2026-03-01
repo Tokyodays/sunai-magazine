@@ -31,7 +31,7 @@ index: 011
 【翻訳版】 translations: magnetic-chuck-complete-guide_ja.md
 
 ---
-# What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
+# 011 What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
 
 ## 概要
 

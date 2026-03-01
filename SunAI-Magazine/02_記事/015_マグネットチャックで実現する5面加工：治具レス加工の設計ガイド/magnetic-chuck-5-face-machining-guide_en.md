@@ -33,7 +33,7 @@ index: 015
 【翻訳版】 translations: magnetic-chuck-5-face-machining-guide-JP.md
 
 ---
-# 5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining
+# 015 5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining
 
 ## 概要
 

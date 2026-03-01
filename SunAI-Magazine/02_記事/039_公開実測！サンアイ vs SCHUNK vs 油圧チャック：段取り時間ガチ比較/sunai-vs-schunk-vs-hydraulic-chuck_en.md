@@ -50,7 +50,7 @@ A head-to-head setup time comparison using a 250mm square, 5kg workpiece across 
 3. How off-machine setup (外段取り) with the SEP-02A(B) pre-setter connects to measurable ROI
 
 ---
-## Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown
+## 039 Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown
 
 ### 1. Why Setup Time Is the Hidden Cost Nobody Talks About
 

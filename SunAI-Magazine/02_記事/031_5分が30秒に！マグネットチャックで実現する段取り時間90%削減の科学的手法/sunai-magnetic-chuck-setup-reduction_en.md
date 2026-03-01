@@ -50,7 +50,7 @@ Conventional hydraulic or vise clamping can consume 5–8 minutes per workpiece 
 3. How to apply SMED principles using Sun Ai's product ecosystem to build a business case
 
 ---
-## 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks
+## 031 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks
 
 ### 1. The Hidden Cost of Setup Time
 

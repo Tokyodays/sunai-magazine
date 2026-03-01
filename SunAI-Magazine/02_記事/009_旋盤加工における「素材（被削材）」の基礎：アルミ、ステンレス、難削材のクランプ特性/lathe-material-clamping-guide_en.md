@@ -48,7 +48,7 @@ This article explains the cutting characteristics of common workpiece materialsâ
 3. Practical clamping strategies and Sun Ai product recommendations for each material category
 
 ---
-## Workpiece Materials in Lathe Machining: Clamping Characteristics of Aluminum, Stainless Steel, and Difficult-to-Cut Materials
+## 009 Workpiece Materials in Lathe Machining: Clamping Characteristics of Aluminum, Stainless Steel, and Difficult-to-Cut Materials
 
 ### 1. Why Material Properties Matter for Clamping
 
