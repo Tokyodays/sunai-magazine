@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: magnetic-chuck-5-face-machining-guide_en
 タイトル: "5-Face Machining with Magnetic Chucks: The Complete Guide to Fixtureless Machining"
-index: 015
+index: 15
 作成日: 2026-02-20
 更新日: 2026-02-20
 公開日:

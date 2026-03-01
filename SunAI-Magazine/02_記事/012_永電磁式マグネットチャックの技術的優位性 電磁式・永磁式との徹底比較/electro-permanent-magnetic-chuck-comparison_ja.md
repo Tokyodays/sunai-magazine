@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: electro-permanent-magnetic-chuck-comparison_ja
 タイトル: 永電磁式マグネットチャックの技術的優位性：電磁式・永磁式との徹底比較
-index: 012
+index: 12
 作成日: 2026-02-20
 更新日: 2026-02-20
 公開日:

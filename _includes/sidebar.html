@@ -17,12 +17,14 @@
         </li>
 
         {% comment %}
-        Combine posts and pages, then sort by index property.
-        Only Japanese content (_ja.md) is shown.
+        Combine posts and pages, filter for those with an 'index',
+        ensure only Japanese content (_ja.md) is selected, and sort numerically.
         {% endcomment %}
-        {% assign items = site.posts | concat: site.pages | sort: "index" %}
+        {% assign all_items = site.posts | concat: site.pages %}
+        {% assign items = all_items | where_exp: "item", "item.index" | sort: "index" %}
+
         {% for item in items %}
-        {% if item.title and item.layout != nil and item.url != "/" and item.url != "/index.html" %}
+        {% if item.title and item.url != "/" and item.url != "/index.html" %}
         {% unless item.path contains "_en.md" %}
         <li>
           <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}"
@@ -31,6 +33,7 @@
         {% endunless %}
         {% endif %}
         {% endfor %}
+
 
 
 

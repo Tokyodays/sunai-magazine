@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: magnetic-chuck-surface-damage-prevention-repair_en
 タイトル: Iron Chips Invasion! Complete Guide to Magnetic Chuck Surface Damage Prevention & Repair
-index: 028
+index: 28
 作成日: 2026-02-23
 更新日:
 公開日:

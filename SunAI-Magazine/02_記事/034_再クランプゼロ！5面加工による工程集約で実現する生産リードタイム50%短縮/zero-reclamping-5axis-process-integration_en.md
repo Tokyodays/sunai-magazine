@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: zero-reclamping-5axis-process-integration_en
 タイトル: Zero Re-Clamping! 50% Lead Time Reduction Through 5-Axis Access Process Integration
-index: 034
+index: 34
 作成日: 2026-02-24
 更新日:
 公開日:

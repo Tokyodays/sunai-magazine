@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: counterfeit-magnetic-chuck-identification_en
 タイトル: Beware of Counterfeits! 7 Checkpoints to Identify Genuine vs Fake Magnetic Chucks
-index: 029
+index: 29
 作成日: 2026-02-23
 更新日:
 公開日:

@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: iot-magnetic-chuck-industry40_en
 タイトル: IoT Visualization! Setup Optimization Through Industry 4.0 Integration of Magnetic Chucks
-index: 036
+index: 36
 作成日: 2026-02-25
 更新日:
 公開日:

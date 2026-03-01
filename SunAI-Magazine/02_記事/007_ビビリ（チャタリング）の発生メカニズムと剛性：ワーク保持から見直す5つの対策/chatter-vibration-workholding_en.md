@@ -1,4 +1,5 @@
 ---
-index: 007
+layout: post
+index: 7
 ---
 

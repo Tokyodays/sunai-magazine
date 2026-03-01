@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: magnetic-chuck-cleaning_ja
 タイトル: 吸着力が半減！切削油・クーラントによる磁気吸着不良と清掃の正解 
-index: 024
+index: 24
 作成日: 2026-02-23 
 更新日: 
 公開日: 

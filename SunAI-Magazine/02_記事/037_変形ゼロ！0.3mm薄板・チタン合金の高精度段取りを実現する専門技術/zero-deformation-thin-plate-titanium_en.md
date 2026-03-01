@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: zero-deformation-thin-plate-titanium_en
 タイトル: Zero Deformation! Specialized Techniques for High-Precision Setup of 0.3mm Thin Plates & Titanium Alloys
-index: 037
+index: 37
 作成日: 2026-02-25
 更新日:
 公開日:

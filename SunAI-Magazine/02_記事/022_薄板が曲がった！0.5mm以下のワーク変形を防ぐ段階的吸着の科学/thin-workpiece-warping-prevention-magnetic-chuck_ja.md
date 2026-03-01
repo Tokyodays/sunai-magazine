@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: thin-workpiece-warping_ja
 タイトル: 薄板が曲がった！0.5mm以下のワーク変形を防ぐ段階的吸着の科学
-index: 022
+index: 22
 作成日: 2026-02-22
 更新日:
 公開日:

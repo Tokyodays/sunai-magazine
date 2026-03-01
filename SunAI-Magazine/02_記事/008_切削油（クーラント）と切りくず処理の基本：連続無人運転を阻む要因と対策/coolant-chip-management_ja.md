@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: coolant-chip-management_ja
 タイトル: 切削油（クーラント）と切りくず処理の基本：連続無人運転を阻む要因と対策
-index: 008
+index: 8
 作成日: 2026-02-19
 更新日:
 公開日:

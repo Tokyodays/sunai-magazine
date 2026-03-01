@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: magnetic-chuck-holding-force-loss_ja
 タイトル: ワークが動いた！マグネットチャック吸着力不足の3大原因と即効対策
-index: 021
+index: 21
 作成日: 2026-02-22
 更新日:
 公開日:

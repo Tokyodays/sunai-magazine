@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: power-outage-magnetic-chuck-emerging-markets_ja
 タイトル: 停電・電圧変動対策：永電磁式マグネットチャックが新興国市場で選ばれる理由
-index: 018
+index: 18
 作成日: 2026-02-21
 更新日:
 公開日:

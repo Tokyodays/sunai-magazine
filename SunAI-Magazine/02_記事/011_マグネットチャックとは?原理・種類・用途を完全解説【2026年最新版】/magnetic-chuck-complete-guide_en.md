@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: magnetic-chuck-complete-guide_en
 タイトル: What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
-index: 011
+index: 11
 作成日: 2026-02-20
 更新日: 2026-02-20
 公開日:

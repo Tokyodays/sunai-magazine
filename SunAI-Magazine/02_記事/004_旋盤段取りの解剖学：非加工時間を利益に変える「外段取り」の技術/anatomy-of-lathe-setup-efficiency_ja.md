@@ -1,6 +1,37 @@
 ---
-index: 004
+layout: post
+記事ID: anatomy-of-lathe-setup-efficiency_ja
+タイトル: "旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術"
+index: 4
+作成日: 2026-02-19
+更新日:
+公開日:
+著者:
+ステータス: #構想中
+
+【カテゴリ】 category: #技術解説
+
+【ファイル名】 anatomy-of-lathe-setup-efficiency_ja.md
+
+【読者レベル】 level: #初心者向け
+
+【製品】 products: 
+
+【技術】 tech: 
+
+【業界】 industry: 
+
+【目的】 purpose: 
+
+【言語】 lang: #日本語
+
+【SEO】 seo: 
+
+【関連記事】 related: [[]]
+
+【翻訳版】 translations: anatomy-of-lathe-setup-efficiency_en.md
 ---
+## 004 旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術
 
 製造現場の稼働率を分析すると、実際に「削っている時間」以上に、ワークの交換や芯出しといった「段取り時間」が利益を圧迫している実態が浮き彫りになります。人手不足が深刻化する現代、この**非加工時間をいかに利益に変換するか**が、工場のROI向上における最大の鍵となります。
 

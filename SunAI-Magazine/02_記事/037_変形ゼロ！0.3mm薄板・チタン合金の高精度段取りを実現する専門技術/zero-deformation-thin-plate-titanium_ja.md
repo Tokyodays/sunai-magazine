@@ -1,7 +1,8 @@
 ---
+layout: post
 記事ID: zero-deformation-thin-plate-titanium_ja
 タイトル: 変形ゼロ！0.3mm薄板・チタン合金の高精度段取りを実現する専門技術
-index: 037
+index: 37
 作成日: 2026-02-25
 更新日:
 公開日:
