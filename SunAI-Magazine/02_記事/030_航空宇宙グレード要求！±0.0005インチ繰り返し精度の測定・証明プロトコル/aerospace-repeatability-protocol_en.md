@@ -1,6 +1,7 @@
 ---
-記事ID: aerospace-repeatability-protocol-en
+記事ID: aerospace-repeatability-protocol_en
 タイトル: Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
+index: 030
 作成日: 2026-02-23
 更新日: 2026-02-23
 公開日:
@@ -11,7 +12,7 @@
 category: #技術解説
 
 【ファイル名】
-aerospace-repeatability-protocol-en.md
+aerospace-repeatability-protocol_en.md
 
 【Description】
 Complete guide to measuring and certifying ±0.0005" (±0.0127mm) repeatability as required by AS9100/ISO13485, covering NIST/DKD traceability, 100-cycle clamp testing, SPC evaluation, and real measurement data from Sun Ai products.
@@ -44,9 +45,8 @@ competition: Low (niche)
 related: [[]]
 
 【翻訳版】
-translations: aerospace-repeatability-protocol-ja.md
+translations: aerospace-repeatability-protocol_ja.md
 ---
-
 # Aerospace Grade Requirement! ±0.0005" Repeatability Measurement & Certification Protocol
 
 ## Overview
