@@ -1,6 +1,7 @@
 ---
 記事ID: aerospace-repeatability-protocol_ja
 タイトル: 航空宇宙グレード要求！±0.0005インチ繰り返し精度の測定・証明プロトコル
+index: 030
 作成日: 2026-02-23
 更新日: 2026-02-23
 公開日:
@@ -44,9 +45,8 @@ competition: Low
 related: [[]]
 
 【翻訳版】
-translations: aerospace-repeatability-protocol-en.md
+translations: aerospace-repeatability-protocol_en.md
 ---
-
 # 航空宇宙グレード要求！±0.0005インチ繰り返し精度の測定・証明プロトコル
 
 ## 概要
