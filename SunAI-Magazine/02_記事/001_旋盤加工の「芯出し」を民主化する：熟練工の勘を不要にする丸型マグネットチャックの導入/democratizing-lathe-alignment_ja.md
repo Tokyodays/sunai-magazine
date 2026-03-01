@@ -2,7 +2,7 @@
 layout: post
 記事ID: democratizing-lathe-alignment_ja
 タイトル: "旋盤加工の「芯出し」を民主化する：熟練工の勘を不要にする丸型マグネットチャックの導入"
-index: 001
+index: 1
 作成日: 2026-02-19
 更新日:
 公開日:

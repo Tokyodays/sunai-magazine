@@ -2,7 +2,7 @@
 layout: post
 記事ID: thin-walled-pipe-ring-processing_en
 タイトル: "The Wall of Thin-Walled Pipe and Ring Processing: Mechanics and Evasion of Deformation for Beginners"
-index: 005
+index: 5
 作成日: 2026-02-19
 更新日:
 公開日:

@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-chuck-cleaning_en
 タイトル: 50% Holding Loss! Coolant-Induced Magnetic Adhesion Failure & Proper Cleaning Methods
-index: 024
+index: 24
 作成日: 2026-02-23
 更新日:
 公開日:

@@ -2,7 +2,7 @@
 layout: post
 記事ID: breaking-001mm-barrier-magnetic-chuck_ja
 タイトル: 精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件
-index: 032
+index: 32
 作成日: 2026-02-24
 更新日: 2026-02-24
 公開日:

@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-chuck-roi_ja
 タイトル: 投資回収1年以内！マグネットチャック導入のROI最大化シミュレーション
-index: 035
+index: 35
 作成日: 2026-02-25
 更新日: 2026-02-25
 公開日:

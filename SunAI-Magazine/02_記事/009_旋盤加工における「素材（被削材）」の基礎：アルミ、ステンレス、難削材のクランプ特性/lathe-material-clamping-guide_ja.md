@@ -2,7 +2,7 @@
 layout: post
 記事ID: lathe-material-clamping-guide_ja
 タイトル: 旋盤加工における「素材（被削材）」の基礎：アルミ、ステンレス、難削材のクランプ特性
-index: 009
+index: 9
 作成日: 2025-02-19
 更新日:
 公開日:

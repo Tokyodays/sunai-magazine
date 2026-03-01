@@ -2,7 +2,7 @@
 layout: post
 記事ID: non-ferrous-magnetic-chuck_ja
 タイトル: 非鉄金属・非磁性材料のマグネット保持：ハイブリッド方式とベストプラクティス
-index: 016
+index: 16
 作成日: 2026-02-20
 更新日:
 公開日:

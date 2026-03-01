@@ -2,7 +2,7 @@
 layout: post
 記事ID: science-of-lathe-deformation_ja
 タイトル: "旋盤の「歪み」を科学する：点接触から面接触へ、加工精度を再定義する応力分布の革新"
-index: 003
+index: 3
 作成日: 2026-02-19
 更新日:
 公開日:

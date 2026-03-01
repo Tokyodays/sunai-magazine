@@ -2,7 +2,7 @@
 layout: post
 記事ID: international-safety-standards-lathe-risks_ja
 タイトル: "【国際安全基準】OSHA・DGUVから読み解く旋盤作業の突起物リスクと「除去」による本質的安全化"
-index: 002
+index: 2
 作成日: 2026-02-19
 更新日:
 公開日:

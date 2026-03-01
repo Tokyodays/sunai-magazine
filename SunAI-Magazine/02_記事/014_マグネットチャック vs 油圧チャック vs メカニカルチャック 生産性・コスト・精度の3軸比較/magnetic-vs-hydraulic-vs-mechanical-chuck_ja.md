@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-vs-hydraulic-vs-mechanical-chuck_ja
 タイトル: マグネットチャック vs 油圧チャック vs メカニカルチャック：生産性・コスト・精度の3軸比較
-index: 014
+index: 14
 作成日: 2026-02-20
 更新日: 2026-02-20
 公開日:

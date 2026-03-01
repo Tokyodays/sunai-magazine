@@ -2,7 +2,7 @@
 layout: post
 記事ID: residual-magnetism_en
 タイトル: Workpieces Stick Together! Complete Guide to Residual Magnetism: Measurement, Demagnetization & Prevention
-index: 023
+index: 23
 作成日: 2026-02-22
 更新日: 2026-02-22
 公開日:

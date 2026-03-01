@@ -2,7 +2,7 @@
 layout: post
 記事ID: thin-walled-pipe-ring-processing_ja
 タイトル: "薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術"
-index: 005
+index: 5
 作成日: 2026-02-19
 更新日:
 公開日:

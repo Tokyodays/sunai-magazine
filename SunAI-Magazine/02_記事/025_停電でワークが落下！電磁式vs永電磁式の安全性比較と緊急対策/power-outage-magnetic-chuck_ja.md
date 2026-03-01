@@ -2,7 +2,7 @@
 layout: post
 記事ID: power-outage-magnetic-chuck_ja
 タイトル: 停電でワークが落下！電磁式vs永電磁式の安全性比較と緊急対策
-index: 025
+index: 25
 作成日: 2026-02-23
 更新日:
 公開日:

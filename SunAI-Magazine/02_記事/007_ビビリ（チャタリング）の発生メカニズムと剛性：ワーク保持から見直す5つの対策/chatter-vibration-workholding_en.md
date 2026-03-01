@@ -1,5 +1,5 @@
 ---
 layout: post
-index: 007
+index: 7
 ---
 

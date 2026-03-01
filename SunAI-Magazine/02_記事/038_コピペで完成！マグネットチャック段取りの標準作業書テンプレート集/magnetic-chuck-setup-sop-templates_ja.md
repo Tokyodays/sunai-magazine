@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-chuck-setup-sop-templates_ja
 タイトル: コピペで完成！マグネットチャック段取りの標準作業書テンプレート集
-index: 038
+index: 38
 作成日: 2026-02-25
 更新日: 2026-02-25
 公開日:

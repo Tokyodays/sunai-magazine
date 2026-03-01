@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-vs-hydraulic-vs-mechanical-chuck_en
 タイトル: Magnetic Chuck vs. Hydraulic Chuck vs. Mechanical Chuck: A 3-Axis Comparison of Productivity, Cost, and Precision
-index: 014
+index: 14
 作成日: 2026-02-20
 更新日: 2026-02-20
 公開日:

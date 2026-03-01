@@ -2,7 +2,7 @@
 layout: post
 記事ID: democratizing-lathe-alignment_en
 タイトル: "Democratizing Lathe Alignment: Circular Magnetic Chucks for Eliminating Expert Intuition"
-index: 001
+index: 1
 作成日: 2026-02-19
 更新日:
 公開日:

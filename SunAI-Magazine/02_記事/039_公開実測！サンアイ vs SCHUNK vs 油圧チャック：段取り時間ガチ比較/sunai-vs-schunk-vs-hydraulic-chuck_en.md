@@ -2,7 +2,7 @@
 layout: post
 記事ID: sunai-vs-schunk-vs-hydraulic-chuck_en
 タイトル: Live Test Results! Sun Ai vs SCHUNK vs Hydraulic Chuck: Real Setup Time Showdown
-index: 039
+index: 39
 作成日: 2026-02-25
 更新日:
 公開日:

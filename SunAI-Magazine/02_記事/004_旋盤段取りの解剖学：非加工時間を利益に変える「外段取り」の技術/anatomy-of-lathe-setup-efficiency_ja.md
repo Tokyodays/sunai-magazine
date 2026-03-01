@@ -2,7 +2,7 @@
 layout: post
 記事ID: anatomy-of-lathe-setup-efficiency_ja
 タイトル: "旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術"
-index: 004
+index: 4
 作成日: 2026-02-19
 更新日:
 公開日:

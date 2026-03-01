@@ -2,7 +2,7 @@
 layout: post
 記事ID: geometric-dimensioning-and-tolerancing-lathe_ja
 タイトル: "幾何公差（GD&T）と旋盤加工：グローバル図面を読み解き、同軸度・真直度を出す基礎"
-index: 006
+index: 6
 作成日: 2026-02-19
 更新日:
 公開日:

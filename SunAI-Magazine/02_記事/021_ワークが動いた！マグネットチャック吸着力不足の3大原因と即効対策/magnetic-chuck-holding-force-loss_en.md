@@ -2,7 +2,7 @@
 layout: post
 記事ID: magnetic-chuck-holding-force-loss_en
 タイトル: Workpiece Slipped! 3 Root Causes of Magnetic Chuck Holding Force Loss & Emergency Solutions
-index: 021
+index: 21
 作成日: 2026-02-22
 更新日:
 公開日:

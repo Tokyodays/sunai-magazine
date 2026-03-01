@@ -2,7 +2,7 @@
 layout: post
 記事ID: anatomy-of-lathe-setup-efficiency_en
 タイトル: "Anatomy of Lathe Setup: Off-Machine Setup Techniques for Turning Downtime into Profit"
-index: 004
+index: 4
 作成日: 2026-02-19
 更新日:
 公開日:

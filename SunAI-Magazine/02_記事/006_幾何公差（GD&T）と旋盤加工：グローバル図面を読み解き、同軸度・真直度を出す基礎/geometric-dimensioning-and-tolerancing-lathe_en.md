@@ -2,7 +2,7 @@
 layout: post
 記事ID: geometric-dimensioning-and-tolerancing-lathe_en
 タイトル: "GD&T and Lathe Processing: Basics of Reading Global Drawings and Achieving Coaxiality and Straightness"
-index: 006
+index: 6
 作成日: 2026-02-19
 更新日:
 公開日:

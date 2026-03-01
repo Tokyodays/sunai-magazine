@@ -2,7 +2,7 @@
 layout: post
 記事ID: sunai-magnetic-chuck-setup-reduction_en
 タイトル: 5 Minutes to 30 Seconds! Scientific Method for 90% Setup Time Reduction with Magnetic Chucks
-index: 031
+index: 31
 作成日: 2026-02-24
 更新日:
 公開日:

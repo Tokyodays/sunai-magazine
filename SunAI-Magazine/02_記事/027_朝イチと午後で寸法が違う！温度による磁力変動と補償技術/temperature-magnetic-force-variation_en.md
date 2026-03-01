@@ -2,7 +2,7 @@
 layout: post
 記事ID: temperature-magnetic-force-variation_en
 タイトル: Morning vs Afternoon Dimension Gap! Temperature-Induced Magnetic Force Variation & Compensation
-index: 027
+index: 27
 作成日: 2026-02-23
 更新日: 2026-02-23
 公開日:

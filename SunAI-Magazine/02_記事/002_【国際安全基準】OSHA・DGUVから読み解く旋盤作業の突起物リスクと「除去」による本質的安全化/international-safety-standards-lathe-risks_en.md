@@ -2,7 +2,7 @@
 layout: post
 記事ID: international-safety-standards-lathe-risks_en
 タイトル: "International Safety Standards: Analyzing Protrusion Risks in Lathe Work via OSHA and DGUV"
-index: 002
+index: 2
 作成日: 2026-02-19
 更新日:
 公開日:

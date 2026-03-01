@@ -2,7 +2,7 @@
 layout: post
 記事ID: science-of-lathe-deformation_en
 タイトル: "The Science of Lathe Deformation: Redefining Processing Accuracy from Point to Face Contact"
-index: 003
+index: 3
 作成日: 2026-02-19
 更新日:
 公開日:
