@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6727cc5573427094",
+        "id": "ed22c717231232d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4a950c317a8c1448",
+            "id": "9d9e0e3afb155a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/補足.md",
+                "file": "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術/thin-wall-machining-deformation-guide_en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "補足"
+              "title": "thin-wall-machining-deformation-guide_en"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 498.5
   },
   "right": {
     "id": "67d97f2f481f62e9",
@@ -183,10 +183,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "4a950c317a8c1448",
+  "active": "9d9e0e3afb155a9f",
   "lastOpenFiles": [
-    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_en.md.md",
+    "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術/thin-wall-machining-deformation-guide_ja.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/補足.md",
+    "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_en.md.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_ja.md.md",
     "00_管理/コンテンツマップ.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる",
@@ -216,7 +217,6 @@
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/補足.md",
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/zero-reclamping-5axis-process-integration_en.md.md",
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/zero-reclamping-5axis-process-integration_ja.md.md",
-    "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化/補足.md",
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮",
     "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化",
     "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件",
