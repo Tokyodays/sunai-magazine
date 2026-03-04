@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術/thin-wall-machining-deformation-guide_en.md",
+                "file": "02_記事/010_職人の「暗黙知」をデータ化する：次世代旋盤オペレーターに求められるスキルセット/tacit-knowledge-to-data_en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thin-wall-machining-deformation-guide_en"
+              "title": "tacit-knowledge-to-data_en"
             }
           }
         ]
@@ -185,7 +185,12 @@
   },
   "active": "9d9e0e3afb155a9f",
   "lastOpenFiles": [
+    "02_記事/004_旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術/anatomy-of-lathe-setup-efficiency_en.md",
+    "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術/thin-wall-machining-deformation-guide_en.md",
+    "02_記事/006_幾何公差（GD&T）と旋盤加工：グローバル図面を読み解き、同軸度・真直度を出す基礎/geometric-dimensioning-and-tolerancing-lathe_en.md",
     "02_記事/005_薄肉パイプ・リング加工の壁：初心者が知るべき「変形」の力学と回避術/thin-wall-machining-deformation-guide_ja.md",
+    "02_記事/004_旋盤段取りの解剖学：非加工時間を利益に変える「外段取り」の技術/anatomy-of-lathe-setup-efficiency_ja.md",
+    "02_記事/006_幾何公差（GD&T）と旋盤加工：グローバル図面を読み解き、同軸度・真直度を出す基礎/geometric-dimensioning-and-tolerancing-lathe_ja.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/補足.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_en.md.md",
     "02_記事/040_Industry 4.0時代のスマートワークホルディング——工場データの信頼性は「ワークの保持」から始まる/smart-workholding-industry40_ja.md.md",
@@ -211,12 +216,7 @@
     "02_記事/036_IoTで見える化！マグネットチャックのIndustry 4.0統合による段取り最適化/iot-magnetic-chuck-industry40_ja.md.md",
     "02_記事/035_投資回収1年以内！マグネットチャック導入のROI最大化シミュレーション/補足.md",
     "02_記事/036_IoTで見える化！マグネットチャックのIndustry 4.0統合による段取り最適化",
-    "02_記事/035_投資回収1年以内！マグネットチャック導入のROI最大化シミュレーション/magnetic-chuck-roi_en.md.md",
-    "02_記事/035_投資回収1年以内！マグネットチャック導入のROI最大化シミュレーション/magnetic-chuck-roi_ja.md.md",
     "02_記事/035_投資回収1年以内！マグネットチャック導入のROI最大化シミュレーション",
-    "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/補足.md",
-    "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/zero-reclamping-5axis-process-integration_en.md.md",
-    "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮/zero-reclamping-5axis-process-integration_ja.md.md",
     "02_記事/034_再クランプゼロ！5面加工による工程集約で実現する生産リードタイム50%短縮",
     "02_記事/033_新人が3日で戦力化！マグネットチャックによるクランプ技能の完全標準化",
     "02_記事/032_精度±0.01mmの壁を破る！マグネットチャックで達成する5つの技術的条件",

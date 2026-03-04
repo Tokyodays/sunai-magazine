@@ -1,6 +1,14 @@
 ---
 
-Article ID: Title: The Challenge of Thin-Wall Pipe and Ring Machining: Deformation Mechanics and Prevention Strategies Every Machinist Should Know Created: 2026-03-05 Updated: Published: Author: Status: #draft
+layout: post
+記事ID: thin-wall-machining-deformation-guide_en
+タイトル: "The Challenge of Thin-Wall Pipe and Ring Machining: Deformation Mechanics and Prevention Strategies Every Machinist Should Know"
+index: 5
+作成日: 2026-02-19
+更新日:
+公開日:
+著者:
+ステータス: #構想中 
 
 [Category] category: #technical-guide
 
