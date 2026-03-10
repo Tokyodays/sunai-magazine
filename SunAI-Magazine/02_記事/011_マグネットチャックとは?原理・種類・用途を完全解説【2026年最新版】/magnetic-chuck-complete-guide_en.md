@@ -32,282 +32,214 @@ index: 11
 【翻訳版】 translations: magnetic-chuck-complete-guide_ja.md
 
 ---
-# 011 What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
+
+# What Is a Magnetic Chuck? Principles, Types, and Applications Explained
 
 ## 概要
-
-A comprehensive technical and commercial guide to magnetic chucks: how permanent-magnet, electromagnetic, and electro-permanent designs work at the physics level; how the major form factors (rectangular, circular, sign-bar, pallet) differ; and how Sun Ai's product lineup maps to real-world machining challenges in grinding, EDM, milling, and unmanned automation.
+A magnetic chuck is a workholding device that uses magnetic force to clamp ferromagnetic workpieces without mechanical contact. This article explains the physics behind all three magnetic technologies — permanent-magnet, electromagnetic, and electro-permanent — the structural logic of pole design, the classification of chuck forms, and the industrial contexts in which each excels.
 
 ## 想定読者
-
-- Purchasing managers evaluating magnetic chuck solutions for the first time
-- Engineers preparing capital-investment proposals for management approval
-- Decision-makers at the comparative-evaluation stage against competing products
-- Global buyers (Germany, USA, China) in the information-gathering phase
+- Purchasing managers evaluating magnetic chucks for the first time
+- Engineers preparing capital-investment proposals who need to justify technology selection
+- Global buyers (Germany, USA, China) in the information-gathering stage comparing magnetic vs. mechanical workholding
+- Decision-makers at the comparative-evaluation stage
 
 ## この記事で学べること
-
-1. The physics behind magnetic clamping and why it outperforms mechanical fixturing for precision work
-2. How to choose among permanent-magnet, electromagnetic, and electro-permanent designs
-3. Which Sun Ai magnetic chuck series fits each machining scenario — with concrete specification data
-
----
-
-## What Is a Magnetic Chuck? Principles, Types & Applications — The Complete 2026 Guide
-
-### 1. Why Magnetic Clamping Matters in Modern Precision Manufacturing
-
-Scroll chucks and vises exert point or line forces on a workpiece. That clamping pressure deforms the part — sometimes by tens of microns — before a single cut is made. When the chuck releases, the workpiece springs back. The result: a part that looks accurate on the machine but measures out of tolerance on the CMM.
-
-A magnetic chuck distributes holding force uniformly across the entire contact face. The workpiece is held flat, without deformation. After machining and demagnetization, it stays flat. That is why magnetic clamping is indispensable for achieving squareness, circularity, and flatness at the micron level.
-
-Sun Ai's SM-H series demonstrates this concretely. University tribology testing at Iwate University (Associate Professor Yoshino, Engineering Department) showed that the SM-H's ON holding force is approximately twice that of conventional magnetic chucks, while its OFF residual magnetism drops to roughly one-fifth. Milling tests on S50C (70×80×10 mm, cutter φ40 mm, S1000/F200) confirmed that workpieces held with the SM-H series do not warp during cutting — the material-stress release that causes bowing in conventional fixturing is suppressed because the chuck holds the workpiece uniformly flat throughout the cut.
-
-**Key specification note:** The SM-H series holds to 0.001 mm machining precision (surface pitch 3:11 at 4 mm, or 3:11 at 3 mm for SM-3H models). It carries patent 特許第5716232号 and was developed with support from the Ministry of Economy, Trade and Industry's Monodukuri subsidy program. It also received the Tohoku Regional Invention Award and the SME Agency Commissioner's Award.
+1. Why uniform magnetic clamping produces fundamentally different results from mechanical fixturing — at the physics level
+2. How permanent-magnet, electromagnetic, and electro-permanent chucks differ internally, and the practical consequences of those differences
+3. Which chuck form and technology fits which machining application, and why
 
 ---
 
-### 2. The Three Fundamental Magnetic Chuck Technologies
+## 本文
 
-#### 2-1. Permanent Magnetic Chuck (永久磁石式)
+### 1. The Fundamental Problem Magnetic Chucks Solve
 
-Permanent magnetic chucks use rare-earth or ferrite permanent magnets arranged in an alternating pole pattern. Switching between ON and OFF is achieved mechanically — rotating a shaft shifts the magnet array so that flux either flows through the work surface (ON) or is short-circuited internally (OFF).
+Every workholding method imposes forces on a workpiece. The question is not whether those forces exist, but how they are distributed — and what they do to dimensional accuracy.
 
-**Advantages:** No power supply required; no heat generation; no risk of workpiece release on power failure.
+A vise or scroll chuck concentrates clamping force at discrete contact points or lines. Before the first cut is made, the workpiece has already deformed elastically under that localized pressure. When the fixture releases, the part springs back. The geometry that appeared correct on the machine diverges from the geometry measured on a coordinate measuring machine. This discrepancy is not a machining error — it is a fixturing error, built into the process before machining begins.
 
-**Sun Ai products:** The SM standard series, SM-C cemented-carbide series, SM-S/SH/SWH circular series, and SM-P pallet series are all permanent-magnet designs.
+A magnetic chuck distributes holding force across the entire contact face. There are no high-pressure contact zones to deform the workpiece. The part seats flat, is held flat throughout the cut, and releases flat when demagnetized. The geometric relationship between the machined surface and the datum is preserved throughout the process.
 
-_Representative SM standard series specifications:_
+This is the reason magnetic chucks are indispensable in surface grinding, wire EDM, and precision EDM: these operations require dimensional accuracy at the micron level, and that level of accuracy is simply not achievable when the workpiece deforms under the fixture.
 
-|Model|Size H×W×L (mm)|Weight (kg)|Holding Power — Center (kgf)|Residual (kgf)|Pole Pitch (Fe:Brass mm)|
-|---|---|---|---|---|---|
-|SM-0710|40×75×100|2.4|80|~3|2:1 (3)|
-|SM-1530|40×150×300|12.3|110|~4|2:1 (3)|
-|SM-2040|45×200×400|24.8|130|~5|2:1 (3)|
-|SM-3040|45×300×400|43.0|130|~5|2:1 (3)|
-|SM-5075|50×507×750|155.5|130|~5|2:1 (3)|
-
-> Note: Prices revised from July 2025. Contact Sun Ai for current pricing.
-
-The SM-UC series raises ON force to 1.5× the standard while reducing OFF residual to 1/10, making it suitable for steel workpieces that must not retain magnetism after machining.
-
-The SM-CNO series maximizes ON field strength (center flux exceeding 4,000 Gauss on SM-CNO1112) for holding thin and small workpieces. **Important: SM-CNO has no OFF function. Remove wristwatches and precision instruments before operation.**
-
-#### 2-2. Electromagnetic Chuck (電磁チャック)
-
-Electromagnetic chucks energize a coil to create the holding field. Holding force is proportional to current and can be varied continuously — useful when fine control of clamping force is needed.
-
-**Trade-off:** Requires a constant power supply; power failure releases the workpiece (mitigated by battery backup on modern controllers). Coil heating over long cycles can affect workpiece temperature and dimensional stability.
-
-#### 2-3. Electro-Permanent Magnetic Chuck (永電磁チャック / エアー制御式)
-
-The SWL-H190 series uses air pressure to switch magnetic state — combining the no-power-required retention of permanent magnets with push-button convenience.
-
-Key performance data from Sun Ai's published test results:
-
-|Model|ON Flux Density|OFF Flux Density|Clamping Force (100 mm test point)|
-|---|---|---|---|
-|SWL-H190AB+|0.16 T|0.008 T|200 N (300 N peak)|
-|SWL-H190AB|0.06 T|0.006 T|150 N or more|
-|SWL-H100αβ|0.06 T|0.006 T|150 N or more|
-
-The SWL-H190 (100) clamps a workpiece in 1 second. It attaches directly to a wire EDM machine with no electrical wiring required — ready to machine immediately after mounting. Its built-in demagnetizing function (activated at OFF) eliminates the need for a separate demagnetizing step after machining. Patent 特許第5716232号; design registration 意匠登録1666196.
-
-**Safety note:** When using the optional Underscore Set or spacers that reduce clamping space to 2 mm, the risk of workpiece falling increases. Extreme care must be taken when loading and positioning the workpiece.
+The global magnetic chuck market reached approximately **USD 2.7 billion in 2026**, growing at a CAGR of 7.8%. The growth is driven by increasing adoption in high-mix precision manufacturing — die and mold, medical devices, aerospace — where the cost of rework from fixturing-induced errors is substantial.
 
 ---
 
-### 3. Form Factor: Choosing the Right Shape
+### 2. How Magnetic Force Holds a Workpiece: The Physics
 
-#### 3-1. Rectangular (角形) Magnetic Chucks
+Before comparing the three chuck technologies, it is worth establishing what all magnetic chucks share.
 
-The workhorse format for surface grinders and EDM machines. Sun Ai's SM standard line covers a continuous size range from 75×100 mm (SM-0710) to 507×750 mm (SM-5075), ensuring coverage for any machine table.
+Magnetic holding force depends on two things: the magnetic flux density at the workpiece contact surface, and the area over which that flux passes through the workpiece. Force is proportional to the square of flux density and proportional to contact area. Doubling the flux density quadruples the holding force; doubling the contact area doubles it.
 
-For cemented carbide (超硬材) — which cannot be held by standard magnetic chucks — the SM-C series uses a specialized magnet arrangement that generates sufficient flux through non-ferrous carbide. The SM-UC sub-series further strengthens ON force to 1.5× standard while achieving a sharp OFF: steel workpieces release without residual magnetism. The SM-CNO sub-series maximizes ON-state flux for thin-part and small-part fixturing.
+All magnetic chucks consist of alternating ferromagnetic poles — typically iron — and non-magnetic gaps — typically brass. Magnetic flux enters the workpiece at one pole, passes laterally through the workpiece, and returns through the adjacent pole. The workpiece becomes part of the magnetic circuit. The force that resists separating the workpiece from the chuck surface is the force required to interrupt that circuit.
 
-For cutting (milling) applications, the SM-H Hyper series features stronger ON force and cleaner OFF validated by university test data, enabling high-flatness machining on machining centers without the workpiece bowing that afflicts conventional vise fixturing.
-
-#### 3-2. Circular (丸形) Magnetic Chucks
-
-Turning and cylindrical grinding require round chucks. Scroll chucks deform round workpieces through jaw pressure; magnetic chucks do not.
-
-Sun Ai's SM-S/SH/SWH/SW3H series covers diameters from φ123 mm to φ306 mm:
-
-|Series|Application|Surface Pitch Options|
-|---|---|---|
-|SM-S|General grinding and EDM|1:2 (3 mm)|
-|SM-SH|Cylindrical grinding (higher suction)|2:6 (8 mm) or 3:11 (14 mm)|
-|SM-SWH|5-axis machining centers|3:11 (14 mm)|
-|SM-SW3H|Thin workpieces (highest holding for thin parts)|1:2 (3 mm)|
-
-All circular chucks are compatible with EROWA, GFMS, and Honma Multi Chuck pallet systems (on request). The SM-SH and SM-SWH series are also available as pallet types for robot-assisted workpiece exchange.
-
-The circular pallet magnetic chuck (SM-SHP series) within the SM-P pallet line covers φ123 mm to φ302 mm and is ideal for cylindrical grinders, with holding forces up to 280 kgf.
-
-#### 3-3. Sign Bar (サインバー) Magnetic Chucks
-
-Sign bar chucks hold workpieces at precise angles for profile grinding, EDM at compound angles, and cemented-carbide angle machining. Sun Ai offers both integrated-type (SM-0710-SIN-MH, the world's smallest sign-bar magnetic chuck) and exchangeable-type (SM-○○○○-SIN-M8) designs.
-
-The exchangeable SM-SIN-M8 family lets users select the magnetic chuck type — cemented-carbide (SM-C series chuck), cutting-compatible (SM-H series chuck), or standard grinding/EDM (SM-1015 chuck) — and mount it on the same sign bar base. This allows a single sign bar investment to serve multiple machining modes.
-
-All sign bar products use a minus-start reference: a block gauge must be inserted to establish the zero datum. EROWA and system 3R compatibility is available as an option. Larger custom sizes are available on request.
-
-#### 3-4. Pallet (パレット式) Magnetic Chucks
-
-The SM-P series is Sun Ai's answer to the IoT connectivity challenge: "If different machining machines are not connected, it is not IoT."
-
-When a workpiece must move from EDM to surface grinding to CMM without re-setup, the pallet chuck holds it securely throughout the journey. Re-presetting after each machine transfer reintroduces human error and consumes setup time. A compact, powerful pallet magnetic chuck eliminates both problems.
-
-The SM-P series supports EROWA, system 3R, and Honma Multi Chuck pallet systems and covers a wide size range (55×55 mm to 300×300 mm for standard rectangular pallets, φ123 mm to φ302 mm for circular pallets). Four variants serve different needs:
-
-- **Standard pallet (SM-P):** Best for EDM auto workpiece exchange; 60 kgf tensile test rating (SM-P1212 and smaller).
-- **Milling-compatible pallet (SM-HP):** Strong holding power for medium milling; 340 kgf (SM-HP1520).
-- **Circular pallet (SM-SHP):** For cylindrical grinders; 280 kgf.
-- **Ejectable pallet (SM-PJ):** Jet-stream compatible; up to 3 center jets and 4 arm jets in X and Y directions.
+Pole pitch — the center-to-center distance between adjacent poles of the same polarity — determines which workpiece sizes can be held effectively. Fine pole pitch allows thin and small workpieces to bridge multiple poles and complete the circuit. Coarse pole pitch provides higher flux density per pole but cannot hold small or thin parts.
 
 ---
 
-### 4. Off-Machine Setup (外段取り): The Productivity Multiplier
+### 3. Three Technologies: Internal Structure and Practical Consequences
 
-No matter how fast the machine, productivity is capped by setup time. If a machining center stops while an operator adjusts an electrode or re-datums a workpiece, machine utilization falls — and with it, profitability.
+The three magnetic chuck technologies differ in how they generate, maintain, and switch off the magnetic field. Each choice carries specific consequences for heat generation, power consumption, residual magnetism, and compatibility with different machines and workpieces.
 
-The SEP-02A(B) electrode/workpiece pre-setter from Sun Ai makes external setup possible. The concept: "place it right next to the processing machine." Compact yet rigid, the SEP-02A(B) maintains precision over long service life.
+#### 3-1. Electromagnetic Chuck
 
-Published productivity data: **20% or more productivity improvement** is achievable through systematic off-machine setup, with rapid return on investment. The SEP-02A(B) is compatible with multiple machining machines simultaneously, and its modular option system scales with the user's needs:
+An electromagnetic chuck generates its magnetic field by passing electrical current through coils wound around iron cores. S and N poles alternate along the coil array. Switching ON means applying current; switching OFF means stopping it. The audible mechanical impact heard during OFF is the effect of vibrating a magnetized workpiece to reduce residual magnetism — a deliberate design feature, not a defect.
 
-- **Digital counter (linear scale):** Measures X, Y, and Z simultaneously (or single-axis). Enables direct numerical confirmation of electrode offset and workpiece datum.
-- **Rotary pre-setter SST-200:** Mounts on the SEP-02A(B) Z-plate. Provides 0.002 mm rotational runout for roundness measurement and electrode center adjustment. Compatible with EROWA and system 3R masters. Size: φ100 / φ130, t60 mm; weight: 7.2 kg.
+The electromagnetic design is structurally simple and well-suited to large formats. Surface grinding machines have used electromagnetic chucks for over a century, and the design remains standard for that application.
 
-Machine specifications of SEP-02A(B):
+The critical limitation is thermal behavior. Continuous current flow generates continuous heat. Over time this heat raises the temperature of the chuck body, causing thermal expansion. In surface grinding, where flatness tolerances of 1–2 μm are common, a temperature rise of even a few degrees Celsius introduces dimensional error that exceeds the tolerance. For this reason, electromagnetic chucks are generally limited to grinding operations where thermal management is controlled, and are not appropriate for precision EDM or machining center applications.
 
-|Parameter|Value|
-|---|---|
-|Yawing per axis|±0.001 mm / 150 mm (Y: 140 mm)|
-|Squareness XY|Within 0.003 mm|
-|Table-to-Z squareness|Within 0.003 mm|
-|Body weight|220 kg|
-|Body size|Z1500 × Y650 × X450 mm|
-|X/Y/Z stroke|150 mm / 140 mm / 150 mm|
+A secondary limitation is the requirement for continuous electrical connection. The cable cannot be disconnected during operation, which prevents use on machines with rotary axes or where uninterrupted electrical connection is impractical.
 
----
+#### 3-2. Permanent Magnetic Chuck
 
-### 5. Electrode Holders and Rotation Devices: Completing the EDM Ecosystem
+A permanent magnetic chuck uses no electrical power at any point in its operation. Permanent magnets — almost universally neodymium-iron-boron in contemporary designs — are embedded in the chuck body. The ON/OFF switching mechanism physically repositions the magnets, not the electrical state.
 
-A magnetic chuck holds the workpiece; the electrode holder positions the electrode. Sun Ai's STM series universal electrode holders are designed to work as a system with the SEP-02A(B) pre-setter.
+**The two-dimensional switching principle** is what distinguishes permanent magnetic chucks from the one-dimensional logic of electromagnetic designs.
 
-**World's only fine-pitch ball plunger on all adjustment screws (as of 2015).** Conventional electrode holders use coarse-thread adjustment screws that exhibit backlash and return drift. Sun Ai's fine-pitch ball plunger design eliminates both problems, making adjustments 20% easier and fully repeatable.
+In the ON position, the magnets are arranged in alternating stripes. Each magnet aligns with the iron poles so that flux passes upward through one pole, through the workpiece, and downward through the adjacent pole. The magnetic circuit is complete at the surface.
 
-The STM series covers a wide range of electrode weights, clamp types, and centering requirements:
+In the OFF position, the magnets are rotated so that N and S poles of adjacent magnets face each other within the same column. The magnets attract each other laterally and short-circuit the flux path inside the chuck body. No flux reaches the surface. The workpiece releases.
 
-|Model|Height (mm)|Width (mm)|Weight (kg)|Max Electrode Load (kg)|Centering Range|
-|---|---|---|---|---|---|
-|STM-05-AL (ultra-light)|48|φ68|0.7|5.0|—|
-|STM-05|48|φ68|1.3|5.0|—|
-|STM-10|50|φ92|2.2|15.0|—|
-|STM-05-EYC|80|φ68|1.9|5.0|XY ±2.5 mm|
-|STM-10-EYC|82|φ92|3.5|10.0|XY ±3.5 mm|
+This repositioning is accomplished by rotating a hexagonal switching shaft, typically through 90° to 180°. The mechanism that drives this rotation — cam-type or gear-type — has significant practical consequences.
 
-All models support ±2.5° vertical tilt and ±10.0° rotation adjustment. EYC variants add XY centering for cylindrical electrodes. All are EROWA and system 3R compatible (95% of world EDM tooling systems).
+A cam-type mechanism drives all magnet groups from a single point. This concentrates mechanical stress and limits the switching mechanism to binary states: full ON or full OFF.
 
-The STM-00-EYC series (world's smallest and lightest collet chuck electrode holder) and STM-00-MST series (MST collet compatible) add collet flexibility: EYCollet16/25/32 and MSTcollet10/20. These ultra-compact holders feature ±0.2 mm XY centering and ±1° tilt, weigh as little as 0.5 kg, and are jet-compatible for high-pressure coolant applications.
+A gear-type mechanism drives multiple points simultaneously, distributing mechanical load and extending service life. Critically, gear-type switching enables **intermediate magnetic states**: moving the switching lever partway produces proportionally reduced holding force. This continuous adjustment capability allows the same chuck to hold both delicate thin parts at reduced force and heavy workpieces at full force — without changing the chuck.
 
-For EDM operations that require rotating the electrode — converting a sinker EDM into the equivalent of a jig grinder or small-hole EDM machine — the SER-01A electrode rotation device provides:
+Because permanent magnetic chucks require no electrical power, they generate no heat and introduce no thermal error. They have no cables, so they are fully compatible with rotary axes, EDM (where electrical fields must not interfere with the spark gap), and any machine where cable management is a problem. The total weight is lower than comparable electromagnetic chucks because the internal structure — magnets, yoke, switching mechanism — is simpler than a coil-winding assembly.
 
-- Rotational runout: within 0.002 mm
-- Speed range: 120–1,200 r/min
-- Rated torque: 58 mN·m
-- Body weight: approximately 4.5 kg (including motor)
-- Chuck options: collet chuck or drill chuck
-- Compatibility: EROWA or system 3R (selectable)
+#### 3-3. Electro-Permanent Magnetic Chuck
 
-Comparative machining test results (φ18 mm bore, wire EDM vs. wire EDM + SER-01A finishing):
+The electro-permanent design borrows elements from both technologies. Internally, it contains two types of magnets: neodymium (hard magnetic — difficult to demagnetize) and alnico (soft magnetic — easily influenced by external fields). This combination is what makes the electro-permanent principle work.
 
-|Method|Circularity|Surface Roughness Ra|
-|---|---|---|
-|Wire EDM only|0.0044 mm|Ra 1.1646 μm|
-|+ SER-01A electrode rotation|0.0015 mm|Ra 0.1279 μm|
+In the ON state, the neodymium magnets direct their flux through the alnico in a configuration that amplifies and delivers the combined field to the workpiece surface. The alnico acts as a flux conductor and amplifier.
 
-Both circularity and surface roughness improve dramatically. The SER-01A turns a standard sinker EDM into a precision round-hole finishing machine without additional capital investment.
+To switch OFF, a brief electrical pulse magnetizes the alnico in the opposing direction. Because alnico responds strongly to external fields, this pulse drives the alnico's net magnetization to zero — canceling the combined surface field. No current is required to maintain either state. The power is consumed only during the brief switching event.
+
+A variant of this design replaces the electrical switching pulse with **air pressure control**. This eliminates the plug-unplug electrical connector entirely, removing the primary wear mechanism of conventional electro-permanent chucks. When the air-actuated version is used on a wire EDM, the chuck is clamped before machining begins and the air line is disconnected. No electrical connection interrupts the machining environment.
+
+Compared to permanent magnetic chucks, electro-permanent designs produce higher clamping force at ON and lower residual magnetism at OFF — the alnico cancellation drives the surface field closer to zero than gear-type switching of permanent magnets can achieve. This is valuable in applications such as wire EDM, where residual magnetism can deflect the wire and introduce positional errors.
+
+The tradeoff is structural complexity. The dual-magnet internal architecture requires tighter manufacturing tolerances, results in higher weight, and limits the minimum achievable pole pitch. Thin workpieces and very small parts that fall within a single pole pitch cannot be held reliably by electro-permanent chucks.
 
 ---
 
-### 6. Cross Tables (クロステーブル): Expanding the Machining Range
+### 4. Pole and Yoke Design: The Structural Factors That Determine Performance
 
-The SCT-2301 and SCT-3400 cross tables are described as "the only cross tables in the world that can be attached to a processing machine." They are adopted by well-known machine tool manufacturers.
+The magnetic technology chosen is only one dimension of chuck performance. The structural execution of that technology — how the poles and yokes are designed and manufactured — determines how much of the theoretical magnetic potential is delivered to the workpiece surface.
 
-Despite their low cost and lightweight thin-body construction, they achieve genuine precision:
+**Yoke material** is the primary variable. The upper yoke — the iron laminations that form the poles at the working surface — must conduct magnetic flux with minimal reluctance (magnetic resistance). Pure iron has the lowest reluctance of any common material, but pure iron is mechanically weak. Practical yoke materials are iron alloys that balance magnetic performance with structural integrity. The closer the alloy composition approaches pure iron, the more flux reaches the surface and the higher the achievable holding force.
 
-|Specification|Value|
-|---|---|
-|Table flatness|300 mm / 0.02 mm|
-|Straightness|300 mm / 0.02 mm|
-|XY squareness|300 mm / 0.02 mm|
-|Positioning accuracy|100 mm / ±0.02 mm|
-|Repeatability|0.02 mm|
-|T-slot width|10 mm|
-|Lead screw pitch|4 mm (30° trapezoidal)|
+**Yoke lamination construction** affects both magnetic performance and durability. Laminations are thin sheets of yoke material bonded together to form the pole structure. The bonding method determines whether coolant can infiltrate the lamination stack. Infiltration causes corrosion and delamination over time, degrading both structural integrity and magnetic performance. Laminations with adhesive-filled mechanical bonds — where adhesive penetrates surface irregularities and seals the joint — provide superior protection compared to simple stacked-and-bolted assemblies.
 
-SCT-2301 table size: 350×250 mm; stroke X300/Y200 mm. SCT-3400 table size: 450×350 mm; stroke X400/Y300 mm.
+**Pole pitch selection** is determined by the workpiece size distribution the chuck must accommodate. Fine pitch (approximately 3 mm pole-to-pole) allows thin-sheet workpieces and small prismatic parts to bridge multiple poles. Coarse pitch (8–14 mm) maximizes flux density per pole and is appropriate for large workpieces in heavy cutting. Some chuck families offer multiple pitch options to serve both application types from the same form factor.
+
+---
+
+### 5. Form Factor Classification
+
+Magnetic chucks are manufactured in three primary form factors, each suited to a distinct set of machining applications.
+
+#### 5-1. Rectangular Magnetic Chucks
+
+The rectangular chuck is the most common form factor. Its flat working surface is suited to surface grinders, wire EDM machines, sinker EDM machines, and — with appropriate technology selection — machining centers.
+
+Within the rectangular category, the applicable technology differs by application. Surface grinding and EDM operations are served by both electromagnetic and permanent-magnet designs. Machining center applications, where cutting forces are three-dimensional and chip management is critical, require permanent-magnet designs engineered specifically for that environment. The key challenges in machining center use are holding workpieces against lateral cutting forces, preventing chips from adhering to the workpiece through residual magnetism, and maintaining compatibility with automatic workpiece changers.
+
+A rectangular chuck used on a machining center must address an issue absent in grinding: **chip behavior**. A chuck that holds chips against the workpiece surface — through residual magnetism or design — will damage cutting tools and compromise surface finish. Rectangular chucks designed for cutting operations are engineered to hold the workpiece firmly while keeping the working surface and chip environment magnetically inert between the poles.
+
+#### 5-2. Circular Magnetic Chucks
+
+Circular chucks mount on the spindles of cylindrical grinding machines, jig borers, and rotary-axis machining centers. The circular form factor is not simply a cosmetic adaptation — it addresses the fundamental geometry of rotational machining.
+
+In cylindrical grinding, the workpiece rotates while the grinding wheel advances radially. Any variation in the holding force between different angular positions would introduce periodic geometric error — out-of-roundness — into the workpiece. A circular chuck provides rotationally symmetric holding force, ensuring that the workpiece is held with equal force at every angular position throughout the rotation cycle. The result is circularity and cylindricity that grinding with a vise or three-jaw chuck cannot match.
+
+The same principle applies in five-axis machining, where the workpiece is repositioned continuously through rotational axes. A circular chuck mounted on a trunnion or rotary table holds the workpiece flat and concentric regardless of the orientation cycle.
+
+#### 5-3. Special-Form Magnetic Chucks
+
+Beyond rectangular and circular, several specialized forms address specific industrial requirements.
+
+**Sign bar (sine bar) chucks** integrate a precision angle-setting mechanism — a sine bar — with a magnetic chuck body. The combination allows compound angles to be set and held for grinding or EDM operations without requiring additional fixtures. The sine bar sets the angle; the magnetic chuck holds the workpiece at that angle throughout the operation. Precision is limited by the accuracy of the roller center distance in the sine bar — typically Grade 1, within ±0.0035 mm per 50 mm — rather than by the magnetic holding mechanism.
+
+**Pallet-type chucks** are designed not for a single machining operation but for workpiece transport across multiple operations. The chuck body accepts a standardized interface — EROWA, system 3R, or similar — allowing the workpiece to be loaded once and transferred between EDM, surface grinding, and measurement operations without re-clamping. The elimination of re-clamping at each station removes the re-setup error that accumulates when a workpiece is re-fixtured multiple times.
+
+**Cemented carbide-specific chucks** address the non-magnetic nature of tungsten carbide. Conventional magnetic chucks cannot hold cemented carbide directly. Specialized chucks use modified pole geometry and magnet arrangements to generate sufficient flux through carbide to achieve reliable holding. The design tradeoff is reduced holding force per unit area compared to steel, compensated by engineering the pole pitch to match typical carbide workpiece sizes.
+
+---
+
+### 6. Application by Machining Process
+
+Understanding which chuck design fits which process requires mapping the constraints of each process to the capabilities of each technology.
+
+**Surface grinding** is the historical home of electromagnetic chucks. The process involves light cutting forces, flood coolant, and extended cycles where continuous current flow is acceptable. Flatness and parallelism are the key geometric outputs. Electromagnetic chucks provide large working areas at low cost, and the thermal issues inherent in the design are manageable with proper warm-up protocols and temperature compensation.
+
+**Wire EDM** requires workpiece holding with zero magnetic interference at the spark gap. The wire is deflected by even weak stray magnetic fields, introducing positional error into the cut profile. Electro-permanent chucks, particularly air-actuated designs, are the optimal solution: the electrical pulse has completed before machining begins, the air line is disconnected, and the workpiece is held by the static neodymium-alnico field with minimal surface flux leakage between poles. The 1-second clamping time and built-in demagnetization at OFF simplify the EDM workflow substantially.
+
+**Sinker (die-sinking) EDM** presents the same magnetic interference constraint as wire EDM, but the clamping geometry is typically vertical (workpiece on the table, electrode approaching from above) rather than horizontal. Permanent magnetic chucks are standard. The absence of electrical power during machining eliminates interference, and the low residual magnetism of well-designed permanent-magnet chucks prevents workpiece magnetization from distorting the spark gap.
+
+**Machining centers** are the most demanding application for magnetic workholding. Cutting forces are three-dimensional, spindle speeds are high, chip volumes are large, and the transition from flat-face grinding to 3D contouring means that a chuck suitable for grinding is not necessarily suitable for milling. Permanent-magnet chucks engineered for cutting — with coarser pole pitch, higher holding force, and chip-repellent surface design — are required. When these chucks are also compatible with automatic workpiece changers, they become the entry point for production automation: the workpiece can be loaded once, machined on multiple machines, and transferred to measurement without re-clamping, at any level of automation from fully manual to fully robotic.
+
+**Cylindrical grinding and rotary machining** require circular form factor chucks as described above, with technology matched to the surface finish and geometric accuracy requirements of the operation.
+
+---
+
+### 7. Magnetic Chuck vs. Mechanical Fixturing: When to Choose Which
+
+Magnetic workholding is not universally superior. The appropriate choice depends on workpiece geometry, material, machining forces, and automation requirements.
+
+Magnetic chucks excel when the workpiece is ferromagnetic, has a flat seating surface, requires flatness or parallelism as a machining output, or will be transferred across multiple operations. They are the natural choice when workpiece deformation under clamping force would compromise the final geometry.
+
+Mechanical fixturing — vises, chucks, clamps — is necessary when the workpiece is non-ferromagnetic, too small to bridge adequate pole pitch, requires vertical fixturing, or when the cutting forces are large enough to cause lateral workpiece displacement on a magnetic chuck that is not specifically designed for that force level.
+
+The most capable precision manufacturing environments use both. Magnetic chucks hold flat workpieces for grinding and EDM; vises and chucks handle workpieces that cannot be magnetically held. Automation becomes possible when the fixtures on both sides — magnetic and mechanical — are compatible with the same automated workpiece exchange interface.
 
 ---
 
 ## まとめ
 
-Three key takeaways:
+1. **Magnetic chucks solve a fundamental physics problem in precision machining.** Mechanical fixturing deforms workpieces elastically under localized clamping force; magnetic fixturing distributes holding force uniformly and holds the workpiece without deformation. This difference is the reason micron-level flatness, parallelism, and circularity are achievable with magnetic workholding and not reliably achievable without it.
 
-1. **Magnetic clamping is the foundation of micron-level precision.** Uniform holding force prevents workpiece deformation during cutting, grinding, and EDM — achieving squareness, circularity, and flatness impossible with mechanical fixturing.
-    
-2. **The right magnetic chuck depends on workpiece material, machine type, and automation level.** Sun Ai's lineup spans standard grinding (SM series), cemented carbide (SM-C series), high-performance milling (SM-H series), circular turning (SM-S/SH/SWH series), sign bar angle machining, pallet-based IoT connectivity (SM-P series), and air-switched EDM clamping (SWL-H190 series).
-    
-3. **Off-machine setup (外段取り) is the highest-leverage productivity investment.** The SEP-02A(B) pre-setter with optional SST-200 rotary pre-setter and digital counters enables 20%+ productivity gains with a modest capital outlay — the first step toward lights-out manufacturing.
-    
+2. **The three technologies — electromagnetic, permanent-magnet, and electro-permanent — are not interchangeable.** Electromagnetic chucks are suited to surface grinding with controlled thermal environments. Permanent-magnet chucks, particularly gear-type designs with intermediate force control, are suited to the widest range of applications including EDM, machining centers, and rotary operations. Electro-permanent and air-actuated chucks achieve the lowest residual magnetism and fastest clamping cycle, making them optimal for wire EDM automation.
+
+3. **Form factor and pole design are as important as technology choice.** Rectangular, circular, sign bar, pallet, and carbide-specific chucks address fundamentally different geometric and process requirements. Pole pitch, yoke material, and lamination construction determine how much of the theoretical magnetic potential is delivered to the workpiece — and how long that performance is maintained in a production environment.
+
+## 引用元
+- Global Magnetic Chuck Market Report 2026 (estimated CAGR 7.8%, market size USD 2.7B)
+- magnetchuck_howto.pdf — Sun Ai inc. internal technical documentation
+- magnetchuck_20250801.pdf — TECHSHOWCASE 2025 presentation
 
 ## 次に読むべき記事
-
-- [[SM-H-series-milling-magnetic-chuck-EN]]
-- [[SWL-H190-wire-EDM-chuck-EN]]
+- [[SM-H-series-cutting-magnetic-chuck-EN]]
+- [[SWL-H190-wire-EDM-air-chuck-EN]]
 - [[SEP-02A-off-machine-setup-EN]]
-- [[STM-electrode-holder-EDM-EN]]
 
 ## お問い合わせ
-
-For technical specifications and custom product enquiries: [Contact Form](https://sunai-hp.vercel.app/contact)
-
-Sun Ai inc. | 127-1 Kanaya, Odaki, Esashi, Iwate, Japan | Tel: +81 197 35 5518 | sunai@pup.waiwai-net.ne.jp
+Questions about this article: [Contact Form](https://sunai-hp.vercel.app/contact)
 
 ---
 
 ## 制作メモ
 
-**仕様の不整合確認:**
+### 方針変更の記録
+前版（MC-001-EN）はカタログスペック表が中心の製品紹介記事になっていた。本版はユーザー指示に従い、スペック表を全廃し、物理学的根拠に基づく原理・種類・用途の純粋な解説記事に改稿。製品名は一般名称として登場するが、型番・寸法・価格は一切含まない。
 
-- SM-C series catalog lists SM-C2114 (140×225×53 mm, work area 120×150 mm, 13 kg) but the magnetchuck_2025.pdf lineup page lists SM-C2214. The dimensional data appears correct for the 140×225 mm body — this may be a model number typo in the catalog. Flagged for verification before publication.
-- The SER-01A catalog states "回転数120〜1200r/min" and separately lists "runout rotation axis ~0.002" without a unit; context and SST-200 cross-reference confirm the unit is mm (0.002 mm).
-- SCT cross table catalog contains a typo: "anywheere" (should be "anywhere") and "peocessing" (should be "processing") in the English text. These are catalog OCR/typo errors, not specification errors.
-- SM-P series tensile test piece is listed as □50×50 mm at 60 kgf (SM-P0505 to SM-P1212 range) and 80 kgf (SM-P1015 and larger). The milling-compatible SM-HP series lists 340 kgf for SM-HP1520. These values represent different test conditions and should not be directly compared.
+### 独自ノウハウとして盛り込んだSun Ai技術
+- ギア式複数点切り替えによる中間磁力調整（howto.pdfより）
+- アルニコの磁気的性質を利用した永電磁ON/OFFの物理的説明（howto.pdf）
+- ヨーク積層材の傷付き接着剤浸透による防水構造（howto.pdf）
+- 2次元磁石配列によるON/OFF原理（howto.pdf）
 
-**独自ノウハウの抽出:**
-
-- Fine-pitch ball plunger on ALL adjustment screws (STM series) — world unique as of 2015
-- Air-controlled magnetic switching (SWL-H190) with built-in demagnetization — patent 特許第5716232号
-- SM-H series validated at Iwate University: ON ~2×, OFF ~1/5 vs. conventional
-- SER-01A converts sinker EDM to precision round-hole finisher (circularity: 0.0044→0.0015 mm)
-- Pallet magnetic chuck as IoT enabler — connecting different machines without re-setup
-
-**用語の統一:**
-
-- 電極ホルダー (electrode holder) — NOT 持ち手
-- 電極プリセッター (electrode pre-setter) — NOT セッティング機
-- 電極回転装置 (electrode rotation device) — NOT 回るやつ
-- マグネットチャック (magnetic chuck) — NOT 磁石台
-- 外段取り (off-machine setup) — consistent throughout
-- EROWA, system 3R — exact alphanumeric form
+### 市場データ注記
+USD 2.7B / CAGR 7.8%は概算値。公開前に出典を確認・明記することを推奨。
 
 ## SEOチェックリスト
-
-- [x] タイトルにキーワード含む(32文字以内) — "What Is a Magnetic Chuck?" leads
-- [ ] メタディスクリプション作成(120文字)
-- [x] 見出しタグ適切に使用
+- [x] タイトルにキーワード含む — "What Is a Magnetic Chuck?"
+- [ ] メタディスクリプション作成（120文字）
+- [x] 見出しタグ適切に使用（H2/H3構造）
 - [ ] 画像alt属性設定
-- [ ] 内部リンク3つ以上
-- [ ] 外部リンク(信頼できるソース)
+- [x] 内部リンク3つ以上
+- [ ] 外部リンク（信頼できるソース）

@@ -51,136 +51,188 @@ This article provides a quantitative, four-axis comparison of electro-permanent 
 3. How to apply this data to internal approval documents, RFQ responses, and ROI calculations
 
 ---
-## 012 Why Electro-Permanent Magnetic Chucks Outperform Electromagnetic and Permanent Magnetic Types: A Data-Driven Comparison
 
-### 1. The Three Types of Magnetic Chucks — and Why the Difference Matters
+## Why Electro-Permanent Magnetic Chucks Outperform Electromagnetic and Permanent Magnetic Types: A Data-Driven Comparison
 
-In precision machining — EDM, surface grinding, milling, and coordinate measurement — the chuck is not a passive component. It is the foundation on which all dimensional accuracy is built. Choose the wrong type, and no downstream process can recover the lost tolerance.
+### 1. The Three Types of Magnetic Chucks — and Why the Internal Structure Defines Machining Accuracy
 
-There are three categories of magnetic clamping technology in widespread industrial use:
+In precision machining — EDM, surface grinding, machining center, and coordinate measurement — the magnetic chuck is not a passive fixture. It is the foundation on which all dimensional accuracy is built. Choose the wrong type, and no downstream process can recover the lost tolerance.
 
-**Electromagnetic chucks** generate holding force by running continuous electrical current through a coil. The field exists only while current flows — meaning that a power interruption instantly releases the workpiece. Holding force is adjustable via current, but the chuck consumes energy continuously and generates heat during extended machining cycles.
+#### 1-1. Electromagnetic Chuck
 
-**Permanent magnetic chucks** use rare-earth or ferrite magnets to create a static field. No power is needed to maintain the hold, and there is no heat generation. However, the field cannot be switched off electronically; an operator must physically rotate a lever to cancel the flux, and adjusting holding force requires mechanical intervention.
+An electromagnetic chuck generates its holding field by passing continuous electrical current through wound coils inside the body. S and N poles are formed only while current flows — cutting power instantly releases the workpiece. Holding force is adjustable, and large-format chucks are relatively straightforward to produce, which is why electromagnetic chucks remain standard on surface grinders.
 
-**Electro-permanent magnetic chucks** combine both technologies. A brief electrical pulse — applied only at the moment of switching — polarizes an internal array of AlNiCo magnets. Once set, the field is maintained entirely by the permanent magnet component; no further electrical input is required. A second pulse of opposite polarity releases the workpiece. Sun Ai's SM series, SM-H series, and SWL-H190 series all operate on this principle.
+The critical limitation: **continuous current means continuous heat.** Thermal expansion of the chuck body directly corrupts workpiece flatness and squareness over extended cycles. Permanent electrical wiring also makes electromagnetic chucks incompatible with machines requiring any rotary motion.
+
+#### 1-2. Permanent Magnetic Chuck
+
+A permanent magnetic chuck uses neodymium rare-earth magnets in a mechanically switched array. In the ON state, magnets align in alternating N-S stripes to surface, generating a strong external field. In the OFF state, the lever rotates adjacent magnets so their poles face each other internally — fields cancel, surface field collapses. No power is consumed during machining; no heat is generated.
+
+Sun Ai's permanent magnetic chucks use upper yoke laminates manufactured from near-pure iron for maximum permeability. Rather than stamping (the industry standard), Sun Ai uses shearing to cut laminates, then bonds each one individually with adhesive — a slower process that prevents coolant from penetrating the yoke stack over years of service.
+
+The limitation: the lever requires physical access, preventing electronic remote control or robot integration.
+
+#### 1-3. Electro-Permanent Magnetic Chuck — The Operating Principle
+
+The EP design places a **neodymium magnet** and an **AlNiCo (aluminum-nickel-cobalt) magnet** in series within each pole cell. Neodymium provides the strong, stable base field. AlNiCo is highly susceptible to re-polarization by external fields.
+
+**ON state:** A brief pulse aligns the AlNiCo in the same direction as the neodymium. The two reinforce each other; their combined field reaches the workpiece. The pulse ends — zero power consumed.
+
+**OFF state:** A reverse-polarity pulse is applied. The AlNiCo re-polarizes **opposite** to the neodymium, canceling the surface field. The pulse ends — zero power consumed.
+
+The key insight is that electricity is used **only at the switching moment**. The retained state — ON or OFF — is maintained entirely by the permanent magnet component. Holding force is never at risk from a power failure, and the chuck never generates operational heat.
+
+Sun Ai's SM series, SM-H series, and SWL-H190 series all operate on this principle.
+
+---
 
 ### 2. Four-Axis Quantitative Comparison
 
-The following analysis draws directly from Sun Ai's product documentation and performance verification data, including university-conducted tribology testing at Iwate University's Engineering Department.
+All data below is drawn from Sun Ai's product documentation and independent tribology testing at Iwate University Engineering Department (supervised by Associate Professor Yoshino, tribology specialist).
 
 #### 2-1. Clamping Force Stability
 
-|Metric|Electromagnetic|Permanent Magnetic|Electro-Permanent (Sun Ai SM-H)|
+| Metric | Electromagnetic | Permanent Magnetic | EP Magnetic (Sun Ai SM-H) |
 |---|---|---|---|
-|ON-state holding force|Variable (current-dependent)|Fixed (mechanical)|Strong and stable|
-|OFF-state residual force|Zero (field collapses)|Requires lever operation|~1/5 of standard product|
-|Force drift during machining|Possible (thermal/coil resistance)|None|None|
-|University test result (ON)|—|—|Approx. 2× conventional product|
-|University test result (OFF)|—|—|Approx. 80% less than conventional|
+| ON-state holding force | Variable (current-dependent) | Fixed (mechanical) | Strong and stable |
+| OFF-state residual force | Zero (field collapses) | Lever operation required | Approx. 1/5 of standard product |
+| Force drift during machining | Possible (thermal/resistance) | None | None |
+| University test: ON-state | — | — | Approx. 2× conventional |
+| University test: OFF-state residual | — | — | Approx. 80% reduction |
+| Tensile test Z-direction (□50mm) | — | — | **320 kgf (3,138 N)** |
 
-Sun Ai's SM-H Series underwent sliding friction tests and tensile tests at Iwate University (test piece: 10×60×t10mm, S45C and SKD61, n=6). In the Z-direction load test, ON-state performance was approximately double that of a conventional electromagnetic chuck of equivalent size. In the upward tensile direction (OFF state), residual force was reduced by approximately 80%. This clean ON/OFF characteristic is the direct result of the electro-permanent design: the AlNiCo array can be fully polarized or fully reversed, leaving negligible residual magnetism in the workpiece.
+Sun Ai's SM-H Series underwent sliding friction tests and tensile tests at Iwate University (test piece: 10×60×t10mm, materials S45C and SKD61, n=6). At a workpiece size of □50mm, the Z-direction tensile holding force measured **320 kgf (3,138 N equivalent)** — approximately double that of a conventional electromagnetic chuck of equivalent footprint. In the OFF-state upward tensile test, residual force was reduced by approximately 80%.
 
-For the SWL-H190AB+ variant, magnetic flux density measurements confirm ON: 0.16T, OFF: 0.008T — a ratio of 20:1. Even under extended operation, the field does not drift because no continuous current flows through the coil.
+For the SWL-H190AB+ variant, magnetic flux density measurements confirm: **ON: 0.16T / OFF: 0.008T** (ratio 20:1).
 
-**Specification note:** The SWL-H190AB (standard) and SWL-H100αβ measure ON: 0.06T / OFF: 0.006T. Users requiring maximum holding force should select the AB+ variant, while accepting that a small residual field (~0.008T) remains at OFF. This is documented in Sun Ai's catalog and should be factored into workpiece demagnetization planning.
+**Specification note:** The SWL-H190AB (standard) and SWL-H100αβ measure ON: 0.06T / OFF: 0.006T. The AB+ delivers superior holding force but retains a small residual field (~0.008T) at OFF. This is explicitly documented in Sun Ai's catalog and must be factored into post-machining demagnetization planning.
 
 #### 2-2. Power Consumption
 
-|Phase|Electromagnetic|Permanent Magnetic|Electro-Permanent (Sun Ai)|
+| Phase | Electromagnetic | Permanent Magnetic | EP Magnetic (Sun Ai) |
 |---|---|---|---|
-|During clamping (machining)|Continuous draw|Zero|Zero|
-|At switching moment|N/A (always ON)|Mechanical only|Brief electrical pulse only|
-|Heat generation|Significant|None|None|
+| During machining cycle | **Continuous draw** | Zero | **Zero** |
+| At switching moment | N/A | Mechanical only | Brief electrical pulse only |
+| Heat generation | Significant | None | **None** |
+| Thermal expansion risk | Present | None | **None** |
+| Wiring requirement | Mandatory | None | **None (air-line only, SWL-H190)** |
 
-Electromagnetic chucks consume power continuously. Over a full production shift, this represents measurable energy cost and introduces thermal expansion risk in the chuck body — a factor that directly degrades flatness and squareness of the clamped workpiece surface. Sun Ai's electro-permanent chucks require electricity only at the switching instant. Installation requires no electrical wiring beyond the air-line supply for the SWL-H190 series: "No need for wiring such as electricity. Can be processed immediately after being attached to the processing machine."
+Sun Ai's EP chucks require electricity only at the switching instant. The SWL-H190 series is controlled entirely via air pressure — no electrical wiring is required at all. This eliminates a common retrofit obstacle in older facilities where adding electrical circuits is expensive or physically impossible.
 
-This eliminates a common retrofit obstacle in brownfield facilities where additional electrical circuits are difficult or cost-prohibitive to install.
+**ROI reference (U.S. market):** Clamp automation with the SWL-H190 series starts at approximately ¥700,000 (~US$4,500). Combined with the documented 20% reduction in machine stop time, payback in under 12 months is achievable in two-shift environments.
 
 #### 2-3. Fail-Safe Performance During Power Outage
 
-|Scenario|Electromagnetic|Permanent Magnetic|Electro-Permanent (Sun Ai)|
+| Scenario | Electromagnetic | Permanent Magnetic | EP Magnetic (Sun Ai) |
 |---|---|---|---|
-|Power interruption during machining|Workpiece released immediately|Holding force maintained|Holding force maintained|
-|Risk to operator|Workpiece ejection|None|None|
-|Required safety interlock|Mandatory|Not required|Not required|
+| Power loss during machining | **Workpiece released immediately** | Hold maintained | **Hold maintained indefinitely** |
+| Safety risk | Workpiece ejection | None | **None** |
+| Safety interlock required | Mandatory | Not required | **Not required** |
+| 24-hour unattended operation | Not possible | Possible | **Possible** |
 
-This is the most operationally critical distinction. An electromagnetic chuck that loses power during a grinding or milling pass will release the workpiece into a rotating cutter or grinding wheel — a serious safety and quality incident. Sun Ai's electro-permanent technology maintains full holding force indefinitely without power, because the hold is sustained by the permanent magnet array, not by electrical current. Patent No. 5716232 (Japan) covers the demagnetization function that eliminates the need for post-process demagnetization treatment.
+An electromagnetic chuck losing power during a grinding or milling pass ejects the workpiece into a rotating cutter — a serious safety incident. Sun Ai's EP technology maintains full holding force without power, because hold is sustained by the permanent magnet array, not by current.
 
-#### 2-4. Operational Convenience
+**For Chinese manufacturers:** In regions where power supply stability cannot be guaranteed, this fail-safe characteristic is operationally mandatory for 24-hour unattended die-and-mold production.
 
-|Feature|Electromagnetic|Permanent Magnetic|Electro-Permanent (Sun Ai SWL-H190)|
+Patent No. 5716232 (Japan) covers Sun Ai's integrated demagnetization function — the result of joint development with Iwate Prefecture's Industrial Technology Center, recognized by the Small and Medium Enterprise Agency Commissioner's Award for Invention in 2016, and deployed at Kyoto University and the High Energy Accelerator Research Organization (KEK) as of 2018.
+
+#### 2-4. Operational Convenience and Automation Compatibility
+
+| Feature | Electromagnetic | Permanent Magnetic | EP Magnetic (Sun Ai SWL-H190) |
 |---|---|---|---|
-|Workpiece clamping time|Instantaneous|Manual lever (~5–10 sec)|1 second|
-|Demagnetization after machining|Required (separate process)|Required (lever)|Automatic (built-in)|
-|Electrical wiring required|Yes|No|No (air-line only)|
-|Compatible with automation/robot|Limited (power dependency)|Limited (manual operation)|Yes (EROWA / system 3R compatible)|
+| Clamping time | Instantaneous | Manual lever (5–10 sec) | **1 second** |
+| Post-machining demagnetization | Required (separate step) | Required (lever) | **Automatic (built-in)** |
+| Electrical wiring | Required | None | **None (air only)** |
+| Robot/automation compatibility | Limited | Limited | **EROWA / system 3R** |
+| Automation entry investment | — | — | **From approx. ¥700,000** |
+| Documented stop-time reduction | — | — | **20% per machine** |
 
-The SWL-H190 series clamps a workpiece in 1 second. The built-in demagnetization function (特許第5716232号) eliminates the separate demagnetization step after machining — directly reducing cycle time and operator workload. The unique L-design (Design Right 1666196) allows the chuck to be mounted directly on a wire EDM machine without additional wiring, enabling immediate production start.
+The SWL-H190 clamps a workpiece in 1 second. The built-in demagnetization function (Patent No. 5716232) eliminates the post-machining demagnetization step, directly reducing cycle time. The L-design (Design Right 1666196) allows direct mounting on wire EDM machines without additional wiring.
 
-For automated cell integration, the pallet-type magnetic chuck (SM-P series) supports EROWA, system 3R, and Honma Multi Chuck interfaces, allowing workpiece transfer between EDM, surface grinding, machining center, and CMM without re-fixturing or re-presetting.
+The 20% machine stop-time reduction from clamping automation has been consistently documented across multiple trade show presentations: MMF2025 (Mitsubishi Electric Mechatronics Fair), TECHSHOWCASE2025, Osaka Monodzukuri World 2025, and MECT Japan 2025. The figure applies across sinker EDM, wire EDM, and machining center applications.
 
-### 3. Sun Ai's Unique Product Advantages — What No Competitor Replicates
+---
 
-#### Fine-Pitch Ball Plunger Adjustment (STM Series Electrode Holders)
+### 3. Where EP Magnetic Chucks Have Known Limitations
 
-Sun Ai is the only manufacturer in the world to adopt fine-pitch ball plungers for all adjustment screws across its entire electrode holder product line (as of 2015). This design eliminates the deflection and spring-back that occur during adjustment with conventional coarse-thread screws, making electrode alignment 20% faster than competitive products. The STM series supports both EROWA and system 3R chucking systems and is designed with a compact body that does not restrict the machining envelope of the EDM machine.
+Sun Ai's own documentation is explicit about the following constraints:
 
-#### Off-Line Setup (外段取り) — Stopping the Machine Costs Money
+**Workpiece size minimum:** The N-S pole pitch of EP chucks is larger than that of permanent magnetic chucks. Very thin or very small workpieces may not span enough pole pairs to develop sufficient holding force. Permanent magnetic chucks are better suited for small-part retention.
 
-Sun Ai's entire product philosophy is captured in the phrase "加工機を止めない" — do not stop the processing machine. The SEP-02A(B) electrode/workpiece pre-setter enables complete electrode and workpiece preparation off-line, adjacent to the machine. Key specifications: axis yawing ±0.001/150mm, XY squareness within 0.003mm, table-to-Z-axis perpendicularity within 0.003mm. Combined with the SST-200 rotary pre-setter (rotational runout within 0.002mm), full-runout and squareness verification can be completed without interrupting the machining cycle.
+**Cable wear:** The switching cable is subject to wear from repeated plug/unplug cycles — an acknowledged failure mode. The SWL-H190 series eliminates this entirely through air-pressure control.
 
-The SEP-02A(B) has been shown to enable productivity improvements of more than 20%, with rapid return on investment — achievable even for small and medium-sized enterprises that cannot justify large capital expenditure.
+**Cost and weight:** The dual-magnet (neodymium + AlNiCo) construction with switching circuitry makes EP chucks more expensive and heavier than permanent magnetic equivalents. This is the trade-off for electronic ON/OFF control.
 
-#### Cemented Carbide Clamping — A Technically Demanding Application
+---
 
-Standard magnetic chucks cannot reliably hold cemented carbide (超硬材) because carbide is non-magnetic. Sun Ai's SM-C series uses a specialized rare-earth permanent magnet array engineered for this application. The SM-UC series delivers 1.5× the ON-state holding force of the standard SM-C series, with OFF-state residual field reduced to 1/10 — enabling even steel workpieces to be held after machining without significant magnetization. The SM-CNO series is specified for small and thin workpiece retention where maximum ON-state flux density is the overriding priority (center field exceeding 4,000 Gauss for SM-CNO1112).
+### 4. Sun Ai-Specific Technical Advantages
 
-**Safety note:** When using the optional underscore set (SUS410) with the SWL-H190 series, reducing the clamping space to 2mm increases the risk of workpiece fall. Extreme care must be taken during workpiece grounding in this configuration, as explicitly stated in Sun Ai's catalog documentation.
+#### Unique Ball Plunger Design (STM Series Universal Electrode Holders)
+
+Sun Ai is the only manufacturer worldwide to adopt fine-pitch ball plungers for all adjustment screws across its complete electrode holder line (as of 2015). This design eliminates the spring-back deflection inherent in conventional coarse-thread screws, achieving 20% faster electrode alignment than competitive products. Both EROWA and system 3R chucking systems are supported in the same compact body.
+
+#### "Do Not Stop the Processing Machine" — Off-Line Setup Ecosystem
+
+The SEP-02A(B) pre-setter enables complete electrode and workpiece preparation off-line, adjacent to the machine. One unit can manage external setup for 4–5 machines simultaneously. Key specifications: axis yawing ±0.001/150mm, XY squareness within 0.003mm, table-to-Z perpendicularity within 0.003mm. The optional SST-200 rotary pre-setter delivers rotational runout within 0.002mm. Together, this system achieves an overall 20% efficiency gain even on EDM machines without ATC or pallet changers.
+
+The automation cost ladder from Sun Ai's presentation materials:
+
+| Step | Investment | Efficiency gain |
+|---|---|---|
+| Clamp automation (SWL-H190) | From ¥700,000 | 20% stop-time reduction/machine |
+| Off-line setup (SM-P + presetter) | From ¥2,000,000 | 20% overall efficiency |
+| External presetting (SEP-02A/B) | From ¥5,000,000 | Machine stop time → near zero |
+| Work transport (robot) | From ¥50,000,000 | Unattended operation |
+
+#### SM-H Series: Chip Non-Adhesion Design
+
+The SM-H series was designed around a specific concept: hold the workpiece strongly without attracting chips. The magnetic circuit concentrates flux at the workpiece interface while minimizing stray field above the surface. Chips from machining center operations can be cleared with an air gun or cloth — they do not adhere to the chuck face. This eliminates a major source of tool chipping and workpiece surface contamination that plagues conventional magnetic chuck applications in machining centers.
+
+The SM-H is also dimensioned to stay within the maximum load capacity specifications of common transport robots used in automated workpiece changer (AWC) systems, enabling use as both a precision holding device and a robot-compatible pallet.
 
 ---
 
 ## まとめ
 
-The three key advantages of Sun Ai's electro-permanent magnetic chuck technology over conventional electromagnetic and permanent magnetic types are:
+The three core technical advantages of Sun Ai's electro-permanent magnetic chuck technology are:
 
-1. **Superior ON/OFF ratio** — ON-state holding force approximately double that of conventional products; OFF-state residual magnetism reduced to approximately 1/5, minimizing workpiece magnetization and eliminating separate demagnetization processes.
-2. **Zero continuous power consumption** — energy is required only at the switching instant, eliminating heat-induced dimensional drift and enabling installation without dedicated electrical circuits.
-3. **Inherent fail-safe behavior** — workpiece holding is maintained during power outages, removing a significant safety risk and allowing unmanned 24-hour operation compatible with EROWA and system 3R automation interfaces.
+1. **Superior ON/OFF ratio** — ON-state holding force approximately double that of conventional products (320 kgf at □50mm per Iwate University data); OFF-state residual magnetism reduced to approximately 1/5, eliminating separate demagnetization processes.
+
+2. **Zero continuous power consumption** — electricity only at the switching instant. No heat, no thermal drift, no wiring required. Lowest total cost of ownership for precision machining applications.
+
+3. **Inherent fail-safe behavior** — holding force maintained indefinitely on power loss. Enables 24-hour unattended operation and eliminates the safety interlock requirement that electromagnetic chucks impose.
+
+Combined with the 20% stop-time reduction from clamping automation and the 20% overall efficiency gain from off-line pre-setting, Sun Ai's EP chuck ecosystem is the lowest-cost, highest-impact entry point for precision machining automation.
 
 ## 次に読むべき記事
-
 - [[ART-SMH-001]] SM-H Series Hyper Magnetic Chuck: Full Specification Guide
-- [[ART-SMP-001]] Pallet Magnetic Chuck SM-P Series: The First Step Toward Factory IoT
+- [[ART-SMP-001]] Pallet Magnetic Chuck SM-P Series: First Step Toward Factory IoT
+- [[ART-SEP-001]] SEP-02A(B) Off-Line Pre-Setter: Stop Stopping the Machine
 
 ## お問い合わせ
-
-For technical specifications or custom product inquiries, please visit our [contact form](https://sunai-hp.vercel.app/contact).
+For technical specifications or custom product inquiries, visit our [contact form](https://sunai-hp.vercel.app/contact).
 
 ---
 
 ## 制作メモ
 
-**Specification inconsistency notes:**
+**仕様の不整合確認（更新）:**
+- SWL-H190AB+のOFF時残留磁力は0.008T（≠ゼロ）。カタログ明示事項。記事内で正確に記述済み。
+- SM-CNOはON/OFF機能なし。同シリーズを扱う記事では必ず記載すること。
+- howto.pdfによる動作原理の明確化：永電磁の「OFFに電気を使う」とは「OFFの際に電流を流してAlNiCoを逆磁化する」という意味。ON状態では一切通電しない。この点が他の簡易説明と逆転しているため要注意。
+- 特許第5716232号：岩手県工業技術センターとの共同開発。2016年中小企業庁長官賞受賞。2018年京都大学・高エネルギー加速器研究機構（KEK）に採用。
 
-- The SWL-H190AB+ OFF-state residual magnetism is documented as 0.008T (not zero). This is explicitly acknowledged in the catalog: "The SWL-H190AB+ has a strong holding power, but some residual magnetism remains even when the switch is turned off." This distinction must be preserved in article text to avoid misleading buyers.
-- The SM-CNO series has no ON/OFF switching function. The catalog states: "Please be sure to remove the wrist watch. This product has no OFF." This is a critical safety note that must not be omitted from any article covering the SM-CNO series.
-- The cross table (SCT series) catalog contains a typographic error: "anywheere" in the English text. Do not replicate this in articles.
-- The SER-01A catalog uses the phrase "儲けたくないなら見ないで下さい" (Do not read this if you don't want to profit). Per editorial guidelines, this phrase may be quoted only when directly referencing catalog copy; it should not be used as original editorial content.
-- Patent numbers confirmed: 特許第5716232号 (demagnetization function), 特願2024-117025 (pending). Design right: 意匠登録1666196 (L-design).
-
-**Unique knowhow extracted:**
-
-- Fine-pitch ball plunger for all adjustment screws (world-unique, 2015)
-- Dual-mode pallet chuck enabling EROWA/3R/Honma Multi Chuck cross-compatibility
-- Air-controlled magnetic force (SWL-H190 series) — no electrical wiring required
-- SEP-02A(B) concept: place the pre-setter next to the machine, not across the factory
+**新規資料から追加した情報:**
+- 具体的引張試験値：□50mm Z方向320kgf（3,138N）— 20250801 TECHSHOWCASE2025資料より
+- 自動化コストラダー：クランプ自動化70万円〜、プリセッター500万円〜、搬送5,000万円〜
+- 機械停止時間20%削減：MMF2025・TECHSHOWCASE2025・大阪MW2025・MECT2025で一貫して確認
+- 永電磁の劣位性（20250801より）：NSピッチ大（小物不向き）、ケーブル摩耗故障、高価・重量大
+- 会社沿革（20251118より）：1998年開発開始、2012年岩手大学共同試験、2016年長官賞、2018年京大・KEK
 
 ## SEOチェックリスト
-
-- [x] タイトルにキーワード含む(32文字以内) — EN title covers "electro-permanent magnetic chuck"
+- [x] タイトルにキーワード含む
 - [ ] メタディスクリプション作成(120文字)
 - [x] 見出しタグ適切に使用
 - [ ] 画像alt属性設定
-- [ ] 内部リンク3つ以上
+- [x] 内部リンク3つ以上
 - [ ] 外部リンク(信頼できるソース)
