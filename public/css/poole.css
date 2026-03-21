@@ -11,11 +11,11 @@
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
-  html { font-size: 20px; }
+  html { font-size: 24px; }
 }
 body {
   color: #555;
